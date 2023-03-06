@@ -96,7 +96,7 @@ To attain wisdom, remove things every day.”
 “Knowing others is intelligence; knowing yourself is true wisdom.
 Mastering others is strength; mastering yourself is true power.”
 
-― Lao Tzu
+- Lao Tzu
 ===
 “The journey of a thousand miles begins with a single step.”
 
@@ -191,42 +191,51 @@ as the shadow that he himself casts.”
 ===
 “Everything has beauty, but not everyone sees it.”
 
-― Confucious
+- Confucious
 ===
 “Wheresoever you go, go with all your heart.”
 
-― Confucius
+- Confucius
 ===
 “He who knows all the answers has not been asked all the questions.”
 
-― Confucius
+- Confucius
 ===
 “The man who asks a question is a fool for a minute,
 the man who does not ask is a fool for life.”
 
-― Confucius
+- Confucius
 ===
 “I hear and I forget. I see and I remember. I do and I understand.”
 
-― Confucius
+- Confucius
 ===
 “Music produces a kind of pleasure which human nature cannot do without.”
 
-― Confucius
+- Confucius
 ===
 “If what one has to say is not better than silence, then one should keep silent.”
 
-― Confucius
+- Confucius
 ===
 “The beginning of wisdom is to call things by their proper name.”
 
-― Confucius
-===
+- Confucius
+==
 “The Man who says he can, and the man who says he can not... Are both correct”
 
-― Confucius
+- Confucius
 ===
 “If you are the smartest person in the room, then you are in the wrong room.”
 
-― Confucius
+- Confucius
+===
+“Treat those who are good with goodness, and also treat those who are not good with goodness. Thus goodness is attained.
+Be honest to those who are honest, and be also honest to those who are not honest. Thus honesty is attained.”
+
+- Lao Tzu
+===
+“From caring comes courage.”
+
+- Lao Tzu
 ===
