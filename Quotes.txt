@@ -22,15 +22,15 @@ Every goal is possible from here.”
 
 - Lao Tzu
 ===
+“Muddy water, let stand, becomes clear.”
+
+- Lao Tzu
+===
 “He who talks more is sooner exhausted.”
 
 - Lao Tzu
 ===
 “A man with outward courage dares to die; a man with inner courage dares to live.”
-
-- Lao Tzu
-===
-“Muddy water, let stand, becomes clear.”
 
 - Lao Tzu
 ===
@@ -43,10 +43,6 @@ Every goal is possible from here.”
 - Lao Tzu
 ===
 “The best fighter is never angry.”
-
-- Lao Tzu
-===
-“If you do not change direction, you may end up where you are heading.”
 
 - Lao Tzu
 ===
@@ -75,12 +71,12 @@ When the student is truly ready… The teacher will disappear.”
 
 - Lao Tzu
 ===
-“To attain knowledge, add things everyday.
-To attain wisdom, remove things every day.”
+“Some lose yet gain, others gain and yet lose.”
 
 - Lao Tzu
 ===
-“Some lose yet gain, others gain and yet lose.”
+“To attain knowledge, add things everyday.
+To attain wisdom, remove things every day.”
 
 - Lao Tzu
 ===
@@ -88,7 +84,9 @@ To attain wisdom, remove things every day.”
 
 - Lao Tzu
 ===
-“A good traveler has no fixed plans and is not intent on arriving.”
+“A good traveler has no fixed plans and is not intent on arriving.
+A good artist lets his intuition guide him wherever it wants.
+A good scientist has freed himself of concepts, and keeps his mind open to what is”
 
 - Lao Tzu
 ===
@@ -104,8 +102,10 @@ Those who talk do not know.”
 ===
 “Men are born soft and supple; dead they are stiff and hard.
 Plants are born tender and pliant; dead, they are brittle and dry.
+
 Thus whoever is stiff and inflexible is a disciple of death.
 Whoever is soft and yielding is a disciple of life.
+
 The hard and stiff will be broken. The soft and supple will prevail.”
 
 - Lao Tzu
@@ -145,6 +145,7 @@ The best leader is one that the people are barely aware of.
 The next best is one who is loved and praised by the people.
 Next comes one who is feared.
 Worst is one who is despised.
+
 If the leader does not have enough faith in his people,
 They will not have faith in him.
 The best leader puts great value in words and says little
@@ -198,6 +199,10 @@ Truly, the greatest gift you have to give is that of your own self-transformatio
 “Everything has beauty, but not everyone sees it.”
 
 - Confucious
+===
+“If you do not change direction, you may end up whewillre you are heading.”
+
+- Lao Tzu
 ===
 “Wheresoever you go, go with all your heart.”
 
@@ -310,7 +315,7 @@ When you see someone not so good, reflect on your own weak points.”
 
 - Lao Tzu
 ===
-"He who does not trust enough, Will not be trusted."
+"He who does not trust enough, will not be trusted."
 
 - Lao Tzu
 ===
@@ -454,15 +459,78 @@ Instead of being concerned that you are not known, seek to be worthy of being kn
 ===
 "All existing things are really one. We regard those that are beautiful and rare as valuable, and those that are ugly as foul and rotten The foul and rotten may come to be transformed into what is rare and valuable, and the rare and valuable into what is foul and rotten."
 
-- Zhuangzi
+- Zhuang Zhou
 ===
-"Where can I find a man who has forgotten words so I can have a word with him?"
+“The fish trap exists because of the fish. Once you've gotten the fish you can forget the trap.
+The rabbit snare exists because of the rabbit. Once you've gotten the rabbit, you can forget the snare.
+Words exist because of meaning. Once you've gotten the meaning, you can forget the words.
+Where can I find a man who has forgotten words so I can talk with him?"
 
-- Zhuangzi
+- Zhuang Zhou
 ===
+"A path is made by walking on it."
+
+- Zhuang Zhou
+===
+"When the heart is right, "for" and "against" are forgotten."
+
+- Zhuang Zhou
+===
+"So it is said, for him who understands Heavenly joy, life is the working of Heaven; death is the transformation of things.
+
+In stillness, he and the yin share a single Virtue; in motion, he and the yang share a single flow."
+
+- Zhuang Zhou
+===
+"All men know the use of the useful, but nobody knows the use of the useless!"
+
+- Zhuang Zhou
+===
+"Cease striving. Then there will be transformation."
+
+- Zhuang Zhou
+=== 
 "I dreamed I was a butterfly, flitting around in the sky; then I awoke. Now I wonder: Am I a man who dreamt of being a butterfly, or am I a butterfly dreaming that I am a man?"
 
-- Zhuangzi
+- Zhuang Zhou
+===
+"The little child learns to speak, though it has no learned teachers - because it lives with those who know how to speak."
+
+- Zhuang Zhou
+===
+"Joy and anger,
+sorrow and happiness,
+caution and remorse
+Come upon us by turns,
+with ever changing mood.
+
+They come like music from hollows,
+like wood when played by the wind,
+or how mushrooms grow from the damp.
+
+Daily and nightly they alternate within
+but we cannot tell whence they spring.
+
+Without these emotions I should not be.
+Without me, they would have no instrument"
+
+- Zhuang Zhou
+===
+"Emptiness is the fasting of the mind"
+
+- Zhuang Zhou
+===
+"You will always find an answer in the sound of water."
+
+- Zhuang Zhou
+===
+"The breathing of the wise person comes from their heels, while most people breathe only from their throats."
+
+- Zhuang Zhou
+===
+"Great knowledge sees all in one. Small knowledge breaks down into the many."
+
+- Zhuang Zhou
 ===
 "Where the mystery is the deepest, is the gate of all that is subtle and wonderful."
 
@@ -554,7 +622,7 @@ One who approaches life with force surely gets something. One who remains conten
 
 - Lao Tzu
 ===
-The Sage puts his own views behind so ends up ahead. He stays a witness to life so he endures.
+The master puts his own views behind so ends up ahead. He stays a witness to life so he endures.
 
 - Lao Tzu
 ===
@@ -578,7 +646,7 @@ Have little and gain much. Have much and be confused.
 
 - Lao Tzu
 ===
-The Sage knows how to follow so he comes to command. He does not compete so no one under Heaven can compete with him.
+The Master knows how to follow so he comes to command. He does not compete so no one under Heaven can compete with him.
 
 - Lao Tzu
 ===
@@ -618,11 +686,17 @@ The best way to live is to be like water. For water benefits all things and goes
 
 - Lao Tzu
 ===
-Live in accordance with the nature of things: Build your house on solid ground. Keep your mind still. When giving, be kind. When speaking, be truthful. When ruling, be just. When working, be one-pointed. When acting, remember – timing is everything.
+Live in accordance with the nature of things: Build your house on solid ground.
+Keep your mind still.
+When giving, be kind.
+When speaking, be truthful.
+When ruling, be just.
+When working, be one-pointed.
+When acting, remember – timing is everything.
 
 - Lao Tzu
 ===
-The Sage acts without action and teaches without talking.
+The master acts without action and teaches without talking.
 
 - Lao Tzu
 ===
@@ -634,7 +708,7 @@ If one doesn’t trust himself how can he trust anyone else?
 
 - Lao Tzu
 ===
-The Sage embraces the One and becomes a model for the world.
+The master embraces the One and becomes a model for the world.
 Without showing himself, he shines forth.
 Without promoting himself, he is distinguished.
 Without claiming reward, he gains endless merit.
@@ -732,4 +806,84 @@ Go to the people. Live with them, learn from them, love them.
 Go into the desert at night and look at the stars. This practice should answer the question."
 
 - Lao Tzu
+===
+"The supreme good is like water, which nourishes all things without trying to.
+It is content with the low places that people disdain.
+Thus it is like the Tao"."
+
+- Lao Tzu
+===
+"Giving birth and nourishing,
+having without possesing,
+acting wtih no expectations,
+leading and not trying to control:
+this is the supreme virtue."
+
+- Lao Tzu
+===
+"The master observes the world, but trusts his inner vision.
+He allows things to come and go.
+His heart is open like the sky."
+
+- Lao Tzu
+===
+"Do you have the patience to wait, till your mud settles and the water is clear?
+Can you remain unmoving, till the right actions arises by itself?
+
+The master doesn't seek fulfillment. Not seeking, not expecting, she is present, and can welcome all things."
+
+- Lao Tzu
+===
+"If you want to become whole, let yourself be partial.
+If you want to become straight, let yourself be crooked.
+If you want to become full, let yourself be empty.
+If you want to be reborn, let yourself die.
+If you want to be given everything, give everything up."
+
+- Lao Tzu
+===
+"True perfection seems imperfect, yet it is perfectly itself.
+True fullness seems empty, yet it is fully present."
+
+- Lao Tzu
+===
+"If powerful men and women could remain centered in the Tao, all things would be in harmony.
+The world would become a paradise. All people would be at peace, and the law would be written in thier hearts."
+
+- Lao Tzu
+===
+Every being in the universe is an expression of the Tao. It springs into existence, unconcious, perfect, free, takes on a physical body, lets circumstances complete it. That is why every being spontaneously honors the Tao."
+
+- Lao Tzu
+===
+“Ambition has one heel nailed in well, though she stretches her fingers to touch the heavens.”
+
+- Lao Tzu
+===
+"The way to do is to be."
+
+- Lao Tzu
+===
+"As soon as you have made a thught, laugh at it."
+
+- Lao Tzu
+===
+"Fill your bowl to the brim and it will spill. Keep sharpening your knife and it will blunt."
+
+- Lao Tzu
+===
+"The master does not hoard. The more he helps others, the more he benefits himself.
+The more he gives to others, the more he gets himself.
+The Way of Heaven does one good but never does one harm.
+The Way of the master is to act but not to compete."
+
+- Lao Tzu
+===
+"One can not reflect in streaming water. Only those who know internal peace can give it to others."
+
+- Lao Tzu
+===
+"The effect of life in society is to complicate and confuse our existence, making us forget who we really are by causing us to be become obsessed with what we are not."
+
+- Zhuang Zhou
 ===
