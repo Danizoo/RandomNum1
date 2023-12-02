@@ -1,4 +1,4 @@
 - New backgrounds!
 - New translations!
 - Switching between translations is now a feature!
-- Developers note will be here untill 20.9.23
+- Developers note will be here untill end of December 23.
