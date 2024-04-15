@@ -1,3 +1,5 @@
+*Update (April 2024): current app version now has the Le Guin translation instead of the John Chalmers one. Both versions will be available in the coming app update which is going to take place in the coming weeks! Have fun.
+
 This app is made as an attribution and with love for the "Tao Te Ching" by the chinese philosopher Lao Tzu.
 While Taoism and Confucianism are not the same, I took the liberty to put in some few quotes by Confucius, which seemed beautiful and inspiring to me.
 If you want to suggest a quote, please visit the following link:
