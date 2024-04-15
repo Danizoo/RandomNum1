@@ -1,9 +1,9 @@
 LeGuin
 ===
-Book One -
+Book One
 
 Taoing
----
+---------
 
 The way you can go
 isn’t the real way.
