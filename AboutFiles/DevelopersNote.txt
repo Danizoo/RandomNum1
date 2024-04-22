@@ -1,4 +1,5 @@
-- New backgrounds!
-- New translations!
-- Switching between translations is now a feature!
-- Developers note will be here untill end of December 23.
+Hello, dear Daily & Random Tao community!
+Exciting news: the app has been updated with a new, additional translation (Le Guin), and a support page.
+Stay tuned for upcoming features in the coming updates, like a bookmark function, design improvements and more tweaks!
+Have a wonderful day,
+Daniel.
