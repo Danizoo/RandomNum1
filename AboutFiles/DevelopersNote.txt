@@ -8,9 +8,9 @@ I think it could set nice reminders of wisdom throughout the day.
 It's called "Inspirational Quotes New Tab", by wisdomLabs.
 You can search for it in the Chrome Web Store, or type this in your Chrome broweser on your computer:
 
-https://tinyurl.com/wisdomLabsQuotes
+https://tinyurl.com/wisdomLabsQuotes,
 
-download and install it.
+and download and install it.
 
 Have an awesome day,
 Daniel G.
