@@ -1,17 +1,9 @@
 Hello, dear Taoists ♥
-I hope you're doing wonderfully,
-and remember that everything is a part of the Tao.
-I wanted to let you now I've built a little quotes extension for Google Chrome.
-Each time you open a new tab, you get a cool looking tab with all necessary functionalities and a beautiful inspiring and deep quote (Not just Tao quotes, but many others).
-I think it could set nice reminders of wisdom throughout the day.
 
-It's called "Inspirational Quotes New Tab", by wisdomLabs.
+I'm deeply moved by your reviews and emails.
+They've inspired me to want to build more things that people would find meaningful and could benefit from.
 
-You can search for it in the Chrome Web Store, or type this in your Chrome browser on your computer:
+If you have ideas for things you’d like to see built, feel free to share them! We can chat, explore the ideas together, and maybe even collaborate. NDAs or any other agreements are totally acceptible if needed.
 
-https://tinyurl.com/wisdomLabsQuotes,
-
-and download and install it.
-
-Have an awesome day,
-Daniel G.
+Feel free to contact at
+danielgu.contact@gmail.com
