@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 1,
+    "text": "Take 3 mindful breaths right now",
+    "category": "breath"
+  },
+  {
+    "id": 2,
+    "text": "Stretch your neck and roll shoulders for 60 seconds",
+    "category": "movement"
+  },
+  {
+    "id": 3,
+    "text": "Drink a full glass of water slowly and notice the taste",
+    "category": "physical"
+  },
+  {
+    "id": 4,
+    "text": "Close your eyes and feel your feet on the floor for 30 seconds",
+    "category": "grounding"
+  },
+  {
+    "id": 5,
+    "text": "Hold a warm cup of tea with eyes closed for 60 seconds then sip",
+    "category": "ritual"
+  },
+  {
+    "id": 6,
+    "text": "Write down one thing you’re grateful for today",
+    "category": "gratitude"
+  },
+  {
+    "id": 7,
+    "text": "Stand and do 10 shoulder openers",
+    "category": "movement"
+  },
+  {
+    "id": 8,
+    "text": "Look out a window for 60 seconds and name five colors you see",
+    "category": "attention"
+  },
+  {
+    "id": 9,
+    "text": "Smile for 30 seconds even if you don’t feel like it",
+    "category": "mood"
+  },
+  {
+    "id": 10,
+    "text": "Name three sounds in the room right now",
+    "category": "sensory"
+  },
+  {
+    "id": 11,
+    "text": "Send a short 'thinking of you' message to a friend",
+    "category": "social"
+  },
+  {
+    "id": 12,
+    "text": "Do a 1-minute posture reset: sit tall and relax shoulders",
+    "category": "posture"
+  },
+  {
+    "id": 13,
+    "text": "Write one sentence reflecting on your morning so far",
+    "category": "reflection"
+  },
+  {
+    "id": 14,
+    "text": "Doodle a small abstract shape on a piece of paper",
+    "category": "creative"
+  },
+  {
+    "id": 15,
+    "text": "Step outside and notice the sky for 60 seconds",
+    "category": "nature"
+  },
+  {
+    "id": 16,
+    "text": "Do 10 deep belly breaths focusing on the rise and fall",
+    "category": "breath"
+  },
+  {
+    "id": 17,
+    "text": "Take a short mindful walk around your room or office",
+    "category": "movement"
+  },
+  {
+    "id": 18,
+    "text": "Take 1-minute to focus on a piece of fruit and its texture",
+    "category": "attention"
+  },
+  {
+    "id": 19,
+    "text": "Write down one thing you want to accomplish today",
+    "category": "intention"
+  },
+  {
+    "id": 20,
+    "text": "Do a 1-minute seated torso twist to each side",
+    "category": "mobility"
+  },
+  {
+    "id": 21,
+    "text": "Take 3 deep breaths, imagining your body is a balloon inflating and deflating",
+    "category": "visualization"
+  },
+  {
+    "id": 22,
+    "text": "Write a short thank you note to someone you appreciate",
+    "category": "gratitude"
+  },
+  {
+    "id": 23,
+    "text": "Do a 1-minute body scan, noticing any tension",
+    "category": "body-awareness"
+  },
+  {
+    "id": 24,
+    "text": "Drink tea slowly, noticing the aroma before sipping",
+    "category": "ritual"
+  },
+  {
+    "id": 25,
+    "text": "Take a 3-minute break and listen to a favorite song",
+    "category": "rest"
+  },
+  {
+    "id": 26,
+    "text": "Stand and reach to the ceiling, then slowly bend forward",
+    "category": "movement"
+  },
+  {
+    "id": 27,
+    "text": "Take a 2-minute quiet break, just observing your breath",
+    "category": "breath"
+  },
+  {
+    "id": 28,
+    "text": "Write one thing you appreciate about your body",
+    "category": "self-care"
+  },
+  {
+    "id": 29,
+    "text": "Stretch your arms to the ceiling and clasp hands, slowly moving side to side",
+    "category": "movement"
+  },
+  {
+    "id": 30,
+    "text": "Notice the sensation of your hands touching a smooth or rough surface",
+    "category": "sensory"
+  },
+  {
+    "id": 31,
+    "text": "Do 5 gentle shoulder rolls forward and backward",
+    "category": "mobility"
+  },
+  {
+    "id": 32,
+    "text": "Write a thank you note to yourself for something small",
+    "category": "gratitude"
+  },
+  {
+    "id": 33,
+    "text": "Hold an object and focus on its weight and temperature for 30 seconds",
+    "category": "grounding"
+  },
+  {
+    "id": 34,
+    "text": "Hum a tune you like for 30 seconds",
+    "category": "sound"
+  },
+  {
+    "id": 35,
+    "text": "Take 3 slow breaths, noticing the cool air entering and warm air leaving",
+    "category": "breath"
+  },
+  {
+    "id": 36,
+    "text": "Listen to one song you like, without doing anything else",
+    "category": "attention"
+  },
+  {
+    "id": 37,
+    "text": "Write a one-line poem about a feeling you are experiencing right now",
+    "category": "creative"
+  },
+  {
+    "id": 38,
+    "text": "Do 10 jumping jacks",
+    "category": "movement"
+  },
+  {
+    "id": 39,
+    "text": "Do a 1-minute mindful walk, noticing each step",
+    "category": "movement"
+  },
+  {
+    "id": 40,
+    "text": "Take a moment to notice a color you are drawn to",
+    "category": "attention"
+  },
+  {
+    "id": 41,
+    "text": "Stand and shake out arms and legs for 30 seconds",
+    "category": "movement"
+  },
+  {
+    "id": 42,
+    "text": "Send a funny gif to a friend",
+    "category": "social"
+  },
+  {
+    "id": 43,
+    "text": "Do a 1-minute imagination exercise: picture your happy place",
+    "category": "visualization"
+  },
+  {
+    "id": 44,
+    "text": "Write a short 1-line micro-story",
+    "category": "creative"
+  },
+  {
+    "id": 45,
+    "text": "Send a positive sticker or emoji to a friend",
+    "category": "social"
+  },
+  {
+    "id": 46,
+    "text": "Look at a photo that makes you happy for 30 seconds",
+    "category": "mood"
+  },
+  {
+    "id": 47,
+    "text": "Stretch your neck gently side to side for 30 seconds",
+    "category": "movement"
+  },
+  {
+    "id": 48,
+    "text": "Write down one thing you can let go of today",
+    "category": "reflection"
+  },
+  {
+    "id": 49,
+    "text": "Close your eyes and listen to the furthest sound you can hear",
+    "category": "attention"
+  },
+  {
+    "id": 50,
+    "text": "Do a 1-minute self-hug, giving yourself compassion",
+    "category": "self-care"
+  },
+  {
+    "id": 51,
+    "text": "Draw a small shape using your non-dominant hand",
+    "category": "creative"
+  },
+  {
+    "id": 52,
+    "text": "Stand and balance on one foot for 15 seconds, then switch",
+    "category": "grounding"
+  },
+  {
+    "id": 53,
+    "text": "Take a 1-minute break to stretch your lower back gently",
+    "category": "movement"
+  },
+  {
+    "id": 54,
+    "text": "Write one thing you did well today, no matter how small",
+    "category": "gratitude"
+  },
+  {
+    "id": 55,
+    "text": "Take 3 deep breaths and visualize a light of calmness around you",
+    "category": "visualization"
+  },
+  {
+    "id": 56,
+    "text": "Take a slow mindful bite of your next snack",
+    "category": "eating"
+  },
+  {
+    "id": 57,
+    "text": "Do 10 ankle rotations clockwise and counterclockwise",
+    "category": "mobility"
+  },
+  {
+    "id": 58,
+    "text": "Take a 1-minute quiet pause and observe your surroundings",
+    "category": "attention"
+  },
+  {
+    "id": 59,
+    "text": "Write down one small thing that made you smile today",
+    "category": "gratitude"
+  },
+  {
+    "id": 60,
+    "text": "Do 10 gentle stretches for your wrists and fingers",
+    "category": "movement"
+  },
+  {
+    "id": 61,
+    "text": "Do 3 slow belly breaths while placing a hand on your stomach",
+    "category": "breath"
+  },
+  {
+    "id": 62,
+    "text": "List three colors you can see around you",
+    "category": "attention"
+  },
+  {
+    "id": 63,
+    "text": "Write a short letter to your future self",
+    "category": "reflection"
+  },
+  {
+    "id": 64,
+    "text": "Smile at someone in a genuine way",
+    "category": "social"
+  },
+  {
+    "id": 65,
+    "text": "Do 5 gentle backbends",
+    "category": "movement"
+  },
+  {
+    "id": 66,
+    "text": "List 3 things you are looking forward to today",
+    "category": "intention"
+  },
+  {
+    "id": 67,
+    "text": "Take 1-minute to stretch your back gently",
+    "category": "movement"
+  },
+  {
+    "id": 68,
+    "text": "Name 3 things you can see that are green",
+    "category": "attention"
+  },
+  {
+    "id": 69,
+    "text": "Close eyes and imagine your favorite nature scene",
+    "category": "visualization"
+  },
+  {
+    "id": 70,
+    "text": "Do 10 arm circles forward and backward",
+    "category": "movement"
+  },
+  {
+    "id": 71,
+    "text": "Notice one smell around you that is pleasant",
+    "category": "sensory"
+  },
+  {
+    "id": 72,
+    "text": "Take a 1-minute pause and just watch your breathing",
+    "category": "breath"
+  },
+  {
+    "id": 73,
+    "text": "Write one word that describes your current feeling",
+    "category": "reflection"
+  },
+  {
+    "id": 74,
+    "text": "Stretch your arms out to the sides and hold for 20 seconds",
+    "category": "movement"
+  },
+  {
+    "id": 75,
+    "text": "Hum while walking for 1 minute",
+    "category": "sound"
+  },
+  {
+    "id": 76,
+    "text": "Take 3 slow breaths while smiling",
+    "category": "breath"
+  },
+  {
+    "id": 77,
+    "text": "Write down one thing you want to learn today",
+    "category": "intention"
+  },
+  {
+    "id": 78,
+    "text": "Do 10 gentle lunges, 5 per leg",
+    "category": "movement"
+  },
+  {
+    "id": 79,
+    "text": "Notice one object with an unusual texture",
+    "category": "sensory"
+  },
+  {
+    "id": 80,
+    "text": "Take 1 minute to focus on the sensation of your feet on the floor",
+    "category": "grounding"
+  },
+  {
+    "id": 81,
+    "text": "Stretch calves against a wall for 30 seconds each leg",
+    "category": "movement"
+  },
+  {
+    "id": 82,
+    "text": "Close eyes and imagine a place that makes you happy",
+    "category": "visualization"
+  },
+  {
+    "id": 83,
+    "text": "Take 5 slow belly breaths noticing the rise and fall",
+    "category": "breath"
+  },
+  {
+    "id": 84,
+    "text": "Name three objects you see that are square or rectangular",
+    "category": "attention"
+  },
+  {
+    "id": 85,
+    "text": "Send a small positive message to a friend",
+    "category": "social"
+  },
+  {
+    "id": 86,
+    "text": "Do 5 gentle seated shoulder shrugs",
+    "category": "mobility"
+  },
+  {
+    "id": 87,
+    "text": "Write a 1-line reflection about your mood right now",
+    "category": "reflection"
+  },
+  {
+    "id": 88,
+    "text": "Take a mindful bite of your next snack and savor each flavor",
+    "category": "eating"
+  },
+  {
+    "id": 89,
+    "text": "Write down one small act of kindness you can do today",
+    "category": "intention"
+  },
+  {
+    "id": 90,
+    "text": "Do 10 gentle seated leg extensions",
+    "category": "movement"
+  },
+  {
+    "id": 91,
+    "text": "Close your eyes and notice the sensation of your fingertips",
+    "category": "sensory"
+  },
+  {
+    "id": 92,
+    "text": "Stretch your arms behind your back and clasp hands, hold 20 seconds",
+    "category": "movement"
+  },
+  {
+    "id": 93,
+    "text": "Take 3 slow breaths and imagine tension leaving your body",
+    "category": "visualization"
+  },
+  {
+    "id": 94,
+    "text": "Write a 1-line intention for focus today",
+    "category": "intention"
+  },
+  {
+    "id": 95,
+    "text": "Step outside and notice one tree in detail",
+    "category": "nature"
+  },
+  {
+    "id": 96,
+    "text": "Hum your favorite melody for 1 minute",
+    "category": "sound"
+  },
+  {
+    "id": 97,
+    "text": "Stretch your neck slowly side to side, 10 reps each",
+    "category": "movement"
+  },
+  {
+    "id": 98,
+    "text": "Write one thing you appreciate about your morning routine",
+    "category": "gratitude"
+  },
+  {
+    "id": 99,
+    "text": "Do 10 gentle cat-cow stretches",
+    "category": "movement"
+  },
+  {
+    "id": 100,
+    "text": "Notice one scent in your environment for 30 seconds",
+    "category": "sensory"
+  },
+  {
+    "id": 101,
+    "text": "Take a mindful sip of tea or coffee and notice its warmth",
+    "category": "ritual"
+  },
+  {
+    "id": 102,
+    "text": "Write a 1-word reflection on your current mood",
+    "category": "reflection"
+  },
+  {
+    "id": 103,
+    "text": "Do 5 gentle arm circles forward and backward",
+    "category": "movement"
+  },
+  {
+    "id": 104,
+    "text": "Send a small compliment to someone today",
+    "category": "social"
+  },
+  {
+    "id": 105,
+    "text": "Stand and sway gently side to side for 1 minute",
+    "category": "movement"
+  },
+  {
+    "id": 106,
+    "text": "Close eyes and visualize a calming light surrounding you",
+    "category": "visualization"
+  },
+  {
+    "id": 107,
+    "text": "Take 3 deep breaths focusing on slow exhale",
+    "category": "breath"
+  },
+  {
+    "id": 108,
+    "text": "Stretch side body with arm overhead for 20 seconds each side",
+    "category": "movement"
+  },
+  {
+    "id": 109,
+    "text": "Notice one small object you usually overlook",
+    "category": "attention"
+  },
+  {
+    "id": 110,
+    "text": "Write down one thing you forgive yourself for today",
+    "category": "self-care"
+  },
+  {
+    "id": 111,
+    "text": "Do 5 gentle seated twists for your spine",
+    "category": "mobility"
+  },
+  {
+    "id": 112,
+    "text": "Take 1-minute to focus on the sensation of your feet on the ground",
+    "category": "grounding"
+  },
+  {
+    "id": 113,
+    "text": "Write a tiny 2-line poem about the moment",
+    "category": "creative"
+  },
+  {
+    "id": 114,
+    "text": "Stretch your wrists by pressing palms together in front of chest",
+    "category": "movement"
+  },
+  {
+    "id": 115,
+    "text": "Notice 3 sounds around you right now",
+    "category": "sensory"
+  },
+  {
+    "id": 116,
+    "text": "Take a mindful step around your room or space",
+    "category": "movement"
+  },
+  {
+    "id": 117,
+    "text": "Write one thing you’re thankful for in your body",
+    "category": "gratitude"
+  },
+  {
+    "id": 118,
+    "text": "Do 10 gentle seated shoulder shrugs",
+    "category": "mobility"
+  },
+  {
+    "id": 119,
+    "text": "Close eyes and imagine a peaceful landscape",
+    "category": "visualization"
+  },
+  {
+    "id": 120,
+    "text": "Take 3 deep belly breaths slowly",
+    "category": "breath"
+  },
+  {
+    "id": 121,
+    "text": "Stand and lift heels slowly 10 times",
+    "category": "movement"
+  },
+  {
+    "id": 122,
+    "text": "Write a 1-line reflection about your energy level",
+    "category": "reflection"
+  },
+  {
+    "id": 123,
+    "text": "Stretch fingers wide and release slowly 10 times",
+    "category": "movement"
+  },
+  {
+    "id": 124,
+    "text": "Notice one texture of your clothing",
+    "category": "sensory"
+  },
+  {
+    "id": 125,
+    "text": "Draw a small doodle to express your current feeling",
+    "category": "creative"
+  },
+  {
+    "id": 126,
+    "text": "Step outside and feel the wind on your face for 1 minute",
+    "category": "nature"
+  },
+  {
+    "id": 127,
+    "text": "Take a slow mindful bite of your next meal",
+    "category": "eating"
+  },
+  {
+    "id": 128,
+    "text": "Write down one small goal for the rest of today",
+    "category": "intention"
+  },
+  {
+    "id": 129,
+    "text": "Do 10 gentle cat-cow stretches on the floor or chair",
+    "category": "movement"
+  },
+  {
+    "id": 130,
+    "text": "Notice one object with unusual shape",
+    "category": "attention"
+  },
+  {
+    "id": 131,
+    "text": "Take 1-minute pause and focus on your posture",
+    "category": "posture"
+  },
+  {
+    "id": 132,
+    "text": "Stand and gently sway side to side for 30 seconds",
+    "category": "movement"
+  },
+  {
+    "id": 133,
+    "text": "Write one thing that made you smile today",
+    "category": "gratitude"
+  },
+  {
+    "id": 134,
+    "text": "Stretch your arms overhead and interlace fingers, hold 15 seconds",
+    "category": "movement"
+  },
+  {
+    "id": 135,
+    "text": "Notice one pleasant smell in your environment",
+    "category": "sensory"
+  },
+  {
+    "id": 136,
+    "text": "Take 1-minute quiet pause and observe surroundings",
+    "category": "attention"
+  },
+  {
+    "id": 137,
+    "text": "Do 5 gentle seated side stretches on each side",
+    "category": "mobility"
+  },
+  {
+    "id": 138,
+    "text": "Name 3 things you hear right now",
+    "category": "sensory"
+  },
+  {
+    "id": 139,
+    "text": "Write one thing you appreciate about your work or studies",
+    "category": "gratitude"
+  },
+  {
+    "id": 140,
+    "text": "Stretch your fingers wide and release slowly",
+    "category": "movement"
+  },
+  {
+    "id": 141,
+    "text": "Close eyes and visualize a glowing light surrounding your body",
+    "category": "visualization"
+  },
+  {
+    "id": 142,
+    "text": "Take 5 slow deep breaths focusing on abdomen rising",
+    "category": "breath"
+  },
+  {
+    "id": 143,
+    "text": "Step outside and notice the temperature on your skin",
+    "category": "nature"
+  },
+  {
+    "id": 144,
+    "text": "Write a 1-line intention for kindness today",
+    "category": "intention"
+  },
+  {
+    "id": 145,
+    "text": "Write a 1-line gratitude note for a friend",
+    "category": "gratitude"
+  },
+  {
+    "id": 146,
+    "text": "Close eyes and listen deeply for 1 minute",
+    "category": "attention"
+  },
+  {
+    "id": 147,
+    "text": "Write one thing you love about today",
+    "category": "gratitude"
+  },
+  {
+    "id": 148,
+    "text": "Stand up and roll shoulders back 10 times",
+    "category": "movement"
+  },
+  {
+    "id": 149,
+    "text": "Notice the color of one object in detail",
+    "category": "attention"
+  },
+  {
+    "id": 150,
+    "text": "Take a slow, mindful sip of water",
+    "category": "ritual"
+  },
+  {
+    "id": 151,
+    "text": "Write a 1-line reflection about your energy today",
+    "category": "reflection"
+  },
+  {
+    "id": 152,
+    "text": "Do 10 gentle squats",
+    "category": "movement"
+  },
+  {
+    "id": 153,
+    "text": "Close eyes and imagine a serene lake",
+    "category": "visualization"
+  },
+  {
+    "id": 154,
+    "text": "Take 5 deep breaths focusing on chest expansion",
+    "category": "breath"
+  },
+  {
+    "id": 155,
+    "text": "Write one thing you’re curious about",
+    "category": "reflection"
+  },
+  {
+    "id": 156,
+    "text": "Stretch your back gently while seated",
+    "category": "movement"
+  },
+  {
+    "id": 157,
+    "text": "Listen to the Gaps: Instead of focusing on sounds, listen to the silence between sounds.",
+    "category": "attention"
+  },
+  {
+    "id": 158,
+    "text": "Observe Without Judgement: Watch a cloud drift across the sky without naming it, describing its shape, or thinking about what it looks like. Just watch it move.",
+    "category": "mindfulness"
+  },
+  {
+    "id": 159,
+    "text": "Do One Thing Less: Consciously decide not to do one small, unnecessary task you were about to do, and simply rest instead.",
+    "category": "wuwei"
+  },
+  {
+    "id": 160,
+    "text": "Follow Your Intuition: Take a slow, quiet walk and turn whenever you feel the slightest intuitive pull to go in a new direction.",
+    "category": "flow"
+  },
+  {
+    "id": 161,
+    "text": "Mirror the Wind: When a gentle breeze blows, allow your body to sway or move in a way that feels like you are flowing with the wind.",
+    "category": "nature"
+  },
+  {
+    "id": 162,
+    "text": "Ground to the Earth: If you are outside, place your hand on a tree or rock and feel its solidity and stillness for 30 seconds.",
+    "category": "nature"
+  },
+  {
+    "id": 163,
+    "text": "Notice the Cycles: Take a moment to reflect on a small natural cycle you observe, like the opening and closing of a flower, or the way light changes throughout the day.",
+    "category": "nature"
+  },
+  {
+    "id": 164,
+    "text": "Connect with Water: Mindfully wash your hands, noticing the flow of the water, its temperature, and how it feels on your skin.",
+    "category": "nature"
+  },
+  {
+    "id": 165,
+    "text": "Embrace Imperfection: Intentionally make a small mistake in a creative task, like a drawing or a line of writing, and appreciate the beauty of the imperfection.",
+    "category": "mindfulness"
+  },
+  {
+    "id": 166,
+    "text": "Find Your Center: Place a hand on your stomach, close your eyes, and feel your physical center of gravity. Breathe into that feeling of stability.",
+    "category": "mindfulness"
+  },
+  {
+    "id": 167,
+    "text": "Release the Outcome: Do a simple task, like washing a dish, with no expectation of it being 'perfectly clean.' Just enjoy the act itself.",
+    "category": "wuwei"
+  },
+  {
+    "id": 168,
+    "text": "Let the Thought Pass: When a strong emotion or thought arises, simply name it ('anger,' 'worry') and imagine it floating by like a leaf on a stream.",
+    "category": "mindfulness"
+  },
+  {
+    "id": 169,
+    "text": "Feel the boundaries of your body. Notice where your skin meets the air or your clothes.",
+    "category": "awareness"
+  },
+  {
+    "id": 170,
+    "text": "Find a shadow. Observe its shape and how it changes with the light.",
+    "category": "nature"
+  },
+  {
+    "id": 171,
+    "text": "Drink a glass of water slowly, feeling the water's path through your body.",
+    "category": "flow"
+  },
+  {
+    "id": 172,
+    "text": "Sit and feel the weight of your body pressing down, a connection to the Earth.",
+    "category": "grounding"
+  },
+  {
+    "id": 173,
+    "text": "Notice a small insect or plant. Observe its existence without assigning a purpose to it.",
+    "category": "nature"
+  },
+  {
+    "id": 174,
+    "text": "Stretch your body like a tree, reaching up and swaying gently from side to side.",
+    "category": "nature"
+  },
+  {
+    "id": 175,
+    "text": "Listen to a single, continuous sound, like a fan or a distant hum, until it disappears into the background.",
+    "category": "attention"
+  },
+  {
+    "id": 176,
+    "text": "Write down a list of 'non-doings' for your day. Things you will intentionally not do.",
+    "category": "wuwei"
+  },
+  {
+    "id": 177,
+    "text": "Close your eyes and imagine your mind as a clear, still lake, with thoughts as ripples on its surface.",
+    "category": "visualization"
+  },
+  {
+    "id": 178,
+    "text": "Walk in a circle slowly, feeling the continuity of your movement.",
+    "category": "flow"
+  },
+  {
+    "id": 179,
+    "text": "Draw a single, continuous line without lifting your pen from the paper.",
+    "category": "flow"
+  },
+  {
+    "id": 180,
+    "text": "Look at your hands. Reflect on all the small, gentle things they have done today.",
+    "category": "reflection"
+  },
+  {
+    "id": 181,
+    "text": "Take a 1-minute break to simply be, with no goal or purpose.",
+    "category": "wuwei"
+  },
+  {
+    "id": 182,
+    "text": "Hold a stone or a smooth object. Feel its presence and its age.",
+    "category": "grounding"
+  },
+  {
+    "id": 183,
+    "text": "Watch the patterns of light and shadow in your room for 30 seconds.",
+    "category": "attention"
+  },
+  {
+    "id": 184,
+    "text": "Notice the transition between inhaling and exhaling. Find the moment of stillness.",
+    "category": "breath"
+  },
+  {
+    "id": 185,
+    "text": "Take a sip of coffee or tea, focusing only on the warmth and the liquid's texture in your mouth.",
+    "category": "ritual"
+  },
+  {
+    "id": 186,
+    "text": "Consider how you are connected to everything around you, from the air you breathe to the chair you sit on.",
+    "category": "unity"
+  },
+  {
+    "id": 187,
+    "text": "Gently massage your hands and feet, thanking them for carrying you through your day.",
+    "category": "selfcare"
+  },
+  {
+    "id": 188,
+    "text": "Do one thing with full intention, like closing a door or putting a cup away.",
+    "category": "mindfulness"
+  },
+  {
+    "id": 189,
+    "text": "Look at the sky. Notice its vastness and how small your worries are in comparison.",
+    "category": "perspective"
+  },
+  {
+    "id": 190,
+    "text": "Listen to the wind. Imagine you are the empty space it moves through.",
+    "category": "nature"
+  },
+  {
+    "id": 191,
+    "text": "Take three slow steps, feeling the ground and the transfer of your weight with each one.",
+    "category": "grounding"
+  },
+  {
+    "id": 192,
+    "text": "Look at a plant and notice its growth, no matter how slow. See the patience in its being.",
+    "category": "nature"
+  },
+  {
+    "id": 193,
+    "text": "Find a quiet corner and just sit. Do not try to meditate or think. Just sit.",
+    "category": "wuwei"
+  },
+  {
+    "id": 194,
+    "text": "When washing your hands, feel the water as it changes from warm to cool.",
+    "category": "sensory"
+  },
+  {
+    "id": 195,
+    "text": "Give yourself permission to stop thinking about a problem for 60 seconds.",
+    "category": "release"
+  },
+  {
+    "id": 196,
+    "text": "Write down a question without an answer. Just the question.",
+    "category": "reflection"
+  },
+  {
+    "id": 197,
+    "text": "Find a spot of sunlight. Place your hands in it and feel its warmth.",
+    "category": "nature"
+  },
+  {
+    "id": 198,
+    "text": "Imagine your body as a hollow bamboo stalk, allowing feelings to pass through without getting stuck.",
+    "category": "visualization"
+  },
+  {
+    "id": 199,
+    "text": "Take a slow, deep breath, imagining you are breathing in the spaciousness of the sky.",
+    "category": "breath"
+  },
+  {
+    "id": 200,
+    "text": "Notice your posture and then let your body naturally slump for a moment, releasing all tension.",
+    "category": "posture"
+  },
+  {
+    "id": 201,
+    "text": "Find a small object and observe it from a new angle or perspective.",
+    "category": "awareness"
+  },
+  {
+    "id": 202,
+    "text": "Notice the spaces between things, like the air between your hand and the table.",
+    "category": "attention"
+  },
+  {
+    "id": 203,
+    "text": "Take a 1-minute break to simply breathe, without trying to change your breath in any way.",
+    "category": "wuwei"
+  },
+  {
+    "id": 204,
+    "text": "Draw or write with your non-dominant hand and embrace the imperfect result.",
+    "category": "creativity"
+  },
+  {
+    "id": 205,
+    "text": "Imagine a river flowing through your body, carrying away tension and worries.",
+    "category": "visualization"
+  },
+  {
+    "id": 206,
+    "text": "Look at the sky. Notice the empty space and feel its vastness inside of you.",
+    "category": "nature"
+  },
+  {
+    "id": 207,
+    "text": "Stand and sway gently from side to side, like a willow in the wind.",
+    "category": "flow"
+  },
+  {
+    "id": 208,
+    "text": "Listen to a sound and try to pinpoint its origin without moving your head.",
+    "category": "attention"
+  },
+  {
+    "id": 209,
+    "text": "Notice a small, simple pleasure in your day, like the warmth of the sun on your skin.",
+    "category": "gratitude"
+  },
+  {
+    "id": 210,
+    "text": "In a crowded place, focus on the stillness within you rather than the chaos around you.",
+    "category": "mindfulness"
+  },
+  {
+    "id": 211,
+    "text": "Take 3 slow breaths, imagining that each exhale makes you lighter.",
+    "category": "breath"
+  },
+  {
+    "id": 212,
+    "text": "Trace the outline of a leaf with your finger, noticing its unique shape.",
+    "category": "nature"
+  },
+  {
+    "id": 213,
+    "text": "Give yourself permission to pause and do nothing for 60 seconds. No phone, no music, no thoughts.",
+    "category": "wuwei"
+  },
+  {
+    "id": 214,
+    "text": "Reflect on how a small event in your life today connects to a larger whole.",
+    "category": "unity"
+  },
+  {
+    "id": 215,
+    "text": "When drinking something, feel the sensation of the cup in your hand and the liquid on your tongue.",
+    "category": "ritual"
+  },
+  {
+    "id": 216,
+    "text": "Hum a single tone and feel the vibration in your chest and throat.",
+    "category": "sound"
+  },
+  {
+    "id": 217,
+    "text": "Walk barefoot on grass or a cool floor for a minute and feel the texture under your feet.",
+    "category": "grounding"
+  },
+  {
+    "id": 218,
+    "text": "Sit in a chair and feel your spine lengthening upwards, like a tree reaching for the sky.",
+    "category": "posture"
+  },
+  {
+    "id": 219,
+    "text": "Do a task very slowly, with a 'goalless' attitude, enjoying the process itself.",
+    "category": "wuwei"
+  },
+  {
+    "id": 220,
+    "text": "Notice the light reflecting off a surface and the color it creates.",
+    "category": "attention"
+  },
+  {
+    "id": 221,
+    "text": "Close your eyes and simply listen to the rhythm of your own heartbeat.",
+    "category": "bodyawareness"
+  },
+  {
+    "id": 222,
+    "text": "Look at your reflection in a window or mirror and smile gently at yourself.",
+    "category": "selfcare"
+  },
+  {
+    "id": 223,
+    "text": "Write a 1-line thought about a dream you had recently.",
+    "category": "reflection"
+  },
+  {
+    "id": 224,
+    "text": "Imagine your body is made of light and space, fluid and without fixed form.",
+    "category": "visualization"
+  },
+  {
+    "id": 225,
+    "text": "Find a quiet place to sit and simply be present with the silence.",
+    "category": "mindfulness"
+  },
+  {
+    "id": 226,
+    "text": "When you open a door, feel the weight of it in your hand and the moment of transition.",
+    "category": "ritual"
+  },
+  {
+    "id": 227,
+    "text": "Stretch your arms up and pretend to let go of everything you're holding, both physically and mentally.",
+    "category": "release"
+  },
+  {
+    "id": 228,
+    "text": "Take a moment to simply look at the clouds and let your thoughts drift with them.",
+    "category": "nature"
+  },
+  {
+    "id": 229,
+    "text": "Write down a compliment you can give to a stranger today.",
+    "category": "social"
+  },
+  {
+    "id": 230,
+    "text": "Take a 1-minute 'reset' from your digital device. Close your eyes and feel your body again.",
+    "category": "grounding"
+  },
+  {
+    "id": 231,
+    "text": "Notice one small detail in a piece of art or a photograph you pass by.",
+    "category": "attention"
+  },
+  {
+    "id": 232,
+    "text": "Write a single word that describes the weather outside right now.",
+    "category": "reflection"
+  },
+  {
+    "id": 233,
+    "text": "Sit and feel the support of the chair or the ground beneath you.",
+    "category": "grounding"
+  },
+  {
+    "id": 234,
+    "text": "Take a moment to listen to the echo of a sound after it has faded.",
+    "category": "awareness"
+  },
+  {
+    "id": 235,
+    "text": "When you open a book, take a moment to notice the smell of the paper.",
+    "category": "sensory"
+  },
+  {
+    "id": 236,
+    "text": "Look at the patterns in a natural object, like wood grain or a leaf's veins.",
+    "category": "nature"
+  },
+  {
+    "id": 237,
+    "text": "Take a 30-second break and just observe your breath, without changing it.",
+    "category": "wuwei"
+  },
+  {
+    "id": 238,
+    "text": "Imagine your body as a hollow vessel, and let the air flow freely in and out.",
+    "category": "visualization"
+  },
+  {
+    "id": 239,
+    "text": "Write a 1-line poem about a feeling that has no name.",
+    "category": "creativity"
+  },
+  {
+    "id": 240,
+    "text": "Do a single, simple action with complete focus, like tying your shoes.",
+    "category": "mindfulness"
+  },
+  {
+    "id": 241,
+    "text": "Give yourself permission to make a small mess and not clean it up immediately.",
+    "category": "wuwei"
+  },
+  {
+    "id": 242,
+    "text": "Feel your clothes on your skin and the sensation of your feet inside your shoes.",
+    "category": "bodyawareness"
+  },
+  {
+    "id": 243,
+    "text": "Look at a wall or a flat surface and notice the variations in its texture and color.",
+    "category": "attention"
+  },
+  {
+    "id": 244,
+    "text": "Take a moment to simply observe the act of blinking. Feel your eyelids.",
+    "category": "sensory"
+  },
+  {
+    "id": 245,
+    "text": "Imagine a river of energy flowing from the earth through your body and back out.",
+    "category": "visualization"
+  },
+  {
+    "id": 246,
+    "text": "Write down one thing you are resisting right now and let the resistance go for a moment.",
+    "category": "release"
+  },
+  {
+    "id": 247,
+    "text": "Watch a cloud move across the sky and feel the slowness of time.",
+    "category": "nature"
+  },
+  {
+    "id": 248,
+    "text": "Notice the transition from light to shadow as you move through a room.",
+    "category": "awareness"
+  },
+  {
+    "id": 249,
+    "text": "Sit and feel the pressure of your hands on your lap. Nothing more.",
+    "category": "grounding"
+  },
+  {
+    "id": 250,
+    "text": "Do a slow, intentional full-body stretch, like a cat waking up.",
+    "category": "flow"
+  },
+  {
+    "id": 251,
+    "text": "Find a quiet space and just listen to the sound of your own silence.",
+    "category": "mindfulness"
+  },
+  {
+    "id": 252,
+    "text": "Imagine your body is a tree, with your feet as roots and your spine as the trunk.",
+    "category": "visualization"
+  },
+  {
+    "id": 253,
+    "text": "Write down a single thought that you can't control, then let it go.",
+    "category": "release"
+  },
+  {
+    "id": 254,
+    "text": "Take a slow mindful bite of your next snack, chewing until it is liquid.",
+    "category": "eating"
+  },
+  {
+    "id": 255,
+    "text": "Hum a tone and feel the vibration in your body, and imagine it shaking off tension.",
+    "category": "sound"
+  },
+  {
+    "id": 256,
+    "text": "Step outside and notice the temperature difference between inside and out.",
+    "category": "nature"
+  },
+  {
+    "id": 257,
+    "text": "Look at your hands. Reflect on their history and what they have accomplished.",
+    "category": "reflection"
+  },
+  {
+    "id": 258,
+    "text": "Take a 1-minute break to simply be, without purpose or a specific action.",
+    "category": "wuwei"
+  },
+  {
+    "id": 259,
+    "text": "When you wash your hands, feel the water as if it is washing away your worries.",
+    "category": "ritual"
+  },
+  {
+    "id": 260,
+    "text": "Close your eyes and try to identify three different smells in your environment.",
+    "category": "sensory"
+  },
+  {
+    "id": 261,
+    "text": "Give yourself a 1-minute 'non-doing' break. Just exist.",
+    "category": "wuwei"
+  },
+  {
+    "id": 262,
+    "text": "Look at the sky, and notice the vast emptiness, a mirror for your inner space.",
+    "category": "nature"
+  },
+  {
+    "id": 263,
+    "text": "Take a 1-minute walk, and with each step, mentally say 'here' and 'now'.",
+    "category": "grounding"
+  },
+  {
+    "id": 264,
+    "text": "Reflect on a single word that represents your highest intention for the day.",
+    "category": "intention"
+  },
+  {
+    "id": 265,
+    "text": "Find a piece of paper and simply make a mark on it, with no specific goal.",
+    "category": "creativity"
+  },
+  {
+    "id": 266,
+    "text": "Close your eyes and feel the air on your face, a gentle, continuous flow.",
+    "category": "sensory"
+  },
+  {
+    "id": 267,
+    "text": "Imagine your body is a hollow flute, and your breath is the melody flowing through it.",
+    "category": "visualization"
+  },
+  {
+    "id": 268,
+    "text": "Do a slow, mindful sip of your next drink, feeling the temperature and flavor.",
+    "category": "ritual"
+  },
+  {
+    "id": 269,
+    "text": "Notice a part of your body that feels uncomfortable and simply acknowledge it without judgment.",
+    "category": "bodyawareness"
+  },
+  {
+    "id": 270,
+    "text": "Do 3 gentle shoulder rolls backwards, releasing any tension you find.",
+    "category": "movement"
+  },
+  {
+    "id": 271,
+    "text": "Find a quiet place to sit and simply be present with your breath, like a wave in the ocean.",
+    "category": "breath"
+  },
+  {
+    "id": 272,
+    "text": "Look at a small crack in the pavement or a wall and reflect on its unique shape and history.",
+    "category": "attention"
+  },
+  {
+    "id": 273,
+    "text": "Write a 1-line thought about something you can't see but know is there, like the wind or gravity.",
+    "category": "reflection"
+  },
+  {
+    "id": 274,
+    "text": "Stand and gently sway side to side, as if you are a branch in a gentle breeze.",
+    "category": "flow"
+  },
+  {
+    "id": 275,
+    "text": "Take 3 mindful breaths, and with each one, imagine you are breathing in peace.",
+    "category": "visualization"
+  },
+  {
+    "id": 276,
+    "text": "Touch a plant and feel the texture of its leaf or stem.",
+    "category": "nature"
+  },
+  {
+    "id": 277,
+    "text": "Give yourself permission to sit in silence for 60 seconds without a phone or other distraction.",
+    "category": "wuwei"
+  },
+  {
+    "id": 278,
+    "text": "Reflect on one small thing that is a part of a larger natural system.",
+    "category": "unity"
+  },
+  {
+    "id": 279,
+    "text": "Write a short letter of thanks to your body for a specific function it performed today.",
+    "category": "selfcare"
+  },
+  {
+    "id": 280,
+    "text": "Take a 1-minute break to simply look out a window, with no agenda or goal.",
+    "category": "attention"
+  },
+  {
+    "id": 281,
+    "text": "Feel the sensation of your tongue resting in your mouth, and nothing more.",
+    "category": "bodyawareness"
+  },
+  {
+    "id": 282,
+    "text": "Look at a small imperfection, like a stain or a scuff, and accept it as it is.",
+    "category": "mindfulness"
+  },
+  {
+    "id": 283,
+    "text": "Take 3 deep breaths, and with each exhale, let go of a bit of tension.",
+    "category": "release"
+  },
+  {
+    "id": 284,
+    "text": "Look at a single object in your home and feel a connection to its history and purpose.",
+    "category": "gratitude"
+  },
+  {
+    "id": 285,
+    "text": "Take a moment to simply sit and feel the stillness inside you.",
+    "category": "grounding"
+  },
+  {
+    "id": 286,
+    "text": "Hum a single low tone and feel the vibration in your abdomen.",
+    "category": "sound"
+  },
+  {
+    "id": 287,
+    "text": "Write a single sentence about a pleasant sensory experience you had today.",
+    "category": "reflection"
+  },
+  {
+    "id": 288,
+    "text": "Imagine your mind as an empty room, and let thoughts enter and leave freely.",
+    "category": "visualization"
+  },
+  {
+    "id": 289,
+    "text": "Step outside and notice the different temperatures on your face and body.",
+    "category": "nature"
+  },
+  {
+    "id": 290,
+    "text": "Write a 1-line phrase that reminds you to trust your own intuition.",
+    "category": "flow"
+  },
+  {
+    "id": 291,
+    "text": "Take a moment to find the center of your body and breathe into it.",
+    "category": "breath"
+  },
+  {
+    "id": 292,
+    "text": "Do a task with your opposite hand, like turning a doorknob or picking up a mug.",
+    "category": "creativity"
+  },
+  {
+    "id": 293,
+    "text": "Listen to the distant, background sounds you usually ignore.",
+    "category": "attention"
+  },
+  {
+    "id": 294,
+    "text": "Give yourself permission to rest. Even if it's just for 1 minute.",
+    "category": "wuwei"
+  },
+  {
+    "id": 295,
+    "text": "Touch a rough surface and a smooth surface and compare the sensations.",
+    "category": "sensory"
+  },
+  {
+    "id": 296,
+    "text": "Reflect on how your mood has shifted throughout the day.",
+    "category": "reflection"
+  },
+  {
+    "id": 297,
+    "text": "Write down a single word that embodies peace for you.",
+    "category": "intention"
+  },
+  {
+    "id": 298,
+    "text": "Imagine you are a rock in a stream, with life flowing around you without moving you.",
+    "category": "visualization"
+  },
+  {
+    "id": 299,
+    "text": "Take a moment to just be present with the temperature of the air.",
+    "category": "nature"
+  },
+  {
+    "id": 300,
+    "text": "Do one thing with no expectation of an outcome. Just for the sake of doing it.",
+    "category": "wuwei"
+  },
+  {
+    "id": 301,
+    "text": "Send a short, positive voice memo to a friend or family member.",
+    "category": "social"
+  },
+  {
+    "id": 302,
+    "text": "Do 3 slow arm circles in each direction to release shoulder tension.",
+    "category": "movement"
+  },
+  {
+    "id": 303,
+    "text": "Close your eyes and try to identify the furthest sound you can hear.",
+    "category": "attention"
+  },
+  {
+    "id": 304,
+    "text": "Take a 1-minute break to simply stare out a window without any specific thoughts.",
+    "category": "mindfulness"
+  },
+  {
+    "id": 305,
+    "text": "Write down a single word that describes how you want to feel today.",
+    "category": "intention"
+  },
+  {
+    "id": 306,
+    "text": "Find a piece of paper and scribble freely for 30 seconds to release stress.",
+    "category": "creativity"
+  },
+  {
+    "id": 307,
+    "text": "Give yourself a 1-minute facial massage with your fingertips.",
+    "category": "self-care"
+  },
+  {
+    "id": 308,
+    "text": "Take a mindful stretch of your entire body, like a dog waking up from a nap.",
+    "category": "movement"
+  },
+  {
+    "id": 309,
+    "text": "Notice one thing you appreciate about your home or workspace.",
+    "category": "gratitude"
+  },
+  {
+    "id": 310,
+    "text": "Take a slow, mindful sip of your next drink, feeling its temperature and taste.",
+    "category": "ritual"
+  },
+  {
+    "id": 311,
+    "text": "Stand up and walk in a small circle, focusing on the sensation of each step.",
+    "category": "grounding"
+  },
+  {
+    "id": 312,
+    "text": "Write down one thing you are looking forward to this week, no matter how small.",
+    "category": "reflection"
+  },
+  {
+    "id": 313,
+    "text": "Imagine your body as a sponge, and with each exhale, squeeze out a little tension.",
+    "category": "visualization"
+  },
+  {
+    "id": 314,
+    "text": "Take a moment to listen to the rhythm of your own breathing.",
+    "category": "breath"
+  },
+  {
+    "id": 315,
+    "text": "Stretch your fingers wide and then make a tight fist, repeating 5 times.",
+    "category": "movement"
+  },
+  {
+    "id": 316,
+    "text": "Notice a specific color around you and find a second object of the same color.",
+    "category": "attention"
+  },
+  {
+    "id": 317,
+    "text": "Give yourself permission to pause and do nothing for 30 seconds.",
+    "category": "mindfulness"
+  },
+  {
+    "id": 318,
+    "text": "Hum your favorite song for 30 seconds, feeling the vibration in your body.",
+    "category": "sound"
+  },
+  {
+    "id": 319,
+    "text": "Look at your reflection in a window or mirror and smile at yourself.",
+    "category": "mood"
+  },
+  {
+    "id": 320,
+    "text": "Write a 1-line phrase that reminds you of your inner strength.",
+    "category": "intention"
+  },
+  {
+    "id": 321,
+    "text": "Do a slow neck roll in each direction, feeling the stretch.",
+    "category": "mobility"
+  },
+  {
+    "id": 322,
+    "text": "Take a deep breath and smell something in your environment, like a coffee or a candle.",
+    "category": "sensory"
+  },
+  {
+    "id": 323,
+    "text": "Notice the feel of your feet inside your shoes for one minute.",
+    "category": "grounding"
+  },
+  {
+    "id": 324,
+    "text": "Write down one thing you can let go of today, big or small.",
+    "category": "release"
+  },
+  {
+    "id": 325,
+    "text": "Close your eyes and simply listen to the silence between sounds.",
+    "category": "attention"
+  },
+  {
+    "id": 326,
+    "text": "Do a quick 30-second dance to your favorite song.",
+    "category": "movement"
+  },
+  {
+    "id": 327,
+    "text": "Take a mindful sip of water and feel it nourish your body.",
+    "category": "physical"
+  },
+  {
+    "id": 328,
+    "text": "Write a 1-line poem about the current weather.",
+    "category": "creativity"
+  },
+  {
+    "id": 329,
+    "text": "Reflect on how your body is feeling right now, without judgment.",
+    "category": "body-awareness"
+  },
+  {
+    "id": 330,
+    "text": "Take a 1-minute break to simply gaze at a plant, tree, or flower.",
+    "category": "nature"
+  },
+  {
+    "id": 331,
+    "text": "Close your eyes and feel the sensation of your hands touching each other.",
+    "category": "sensory"
+  },
+  {
+    "id": 332,
+    "text": "Write a short note of appreciation to yourself for a small accomplishment.",
+    "category": "self-care"
+  },
+  {
+    "id": 333,
+    "text": "Imagine a calming light filling your body from the top of your head to your toes.",
+    "category": "visualization"
+  },
+  {
+    "id": 334,
+    "text": "Stand up and do a full body shake for 30 seconds.",
+    "category": "movement"
+  },
+  {
+    "id": 335,
+    "text": "Notice the texture of the object you are holding or touching.",
+    "category": "grounding"
+  },
+  {
+    "id": 336,
+    "text": "Take a slow, mindful breath, and with the exhale, blow out a pretend candle.",
+    "category": "breath"
+  },
+  {
+    "id": 337,
+    "text": "Look at an everyday object and try to notice something you've never seen before.",
+    "category": "attention"
+  },
+  {
+    "id": 338,
+    "text": "Write a list of 3 things you are grateful for right now.",
+    "category": "gratitude"
+  },
+  {
+    "id": 339,
+    "text": "Stretch your spine like a cat, arching and rounding your back.",
+    "category": "movement"
+  },
+  {
+    "id": 340,
+    "text": "Give yourself permission to daydream for 60 seconds.",
+    "category": "rest"
+  },
+  {
+    "id": 341,
+    "text": "Hum a single, continuous note and feel the vibration in your chest.",
+    "category": "sound"
+  },
+  {
+    "id": 342,
+    "text": "Look at a small imperfection and see the unique beauty in it.",
+    "category": "mindfulness"
+  },
+  {
+    "id": 343,
+    "text": "Stand and gently sway side to side, feeling your feet on the ground.",
+    "category": "grounding"
+  },
+  {
+    "id": 344,
+    "text": "Send a short message of thanks to someone who helped you today.",
+    "category": "social"
+  },
+  {
+    "id": 345,
+    "text": "Write a 1-word reflection on your current mood.",
+    "category": "reflection"
+  },
+  {
+    "id": 346,
+    "text": "Take a moment to simply look at the sky and notice its colors.",
+    "category": "nature"
+  },
+  {
+    "id": 347,
+    "text": "Close your eyes and imagine a gentle, flowing river carrying away your worries.",
+    "category": "visualization"
+  },
+  {
+    "id": 348,
+    "text": "Do 5 gentle seated spine twists to each side.",
+    "category": "mobility"
+  },
+  {
+    "id": 349,
+    "text": "Feel the sensation of your tongue resting in your mouth, and nothing more.",
+    "category": "body-awareness"
+  },
+  {
+    "id": 350,
+    "text": "Write down a single positive affirmation you can say to yourself today.",
+    "category": "self-care"
+  }
+]
