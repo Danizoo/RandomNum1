@@ -1,182 +1,240 @@
 [
   {
     "id": 1,
-    "title": "Yin Yang (Taijitu)",
-    "explanation": "The classic symbol of duality and harmony. Black and white swirl together, reminding us that opposite forces are interconnected and interdependent. Light cannot exist without darkness, and action is balanced by stillness. Embrace the flow of complementary energies in life, seeing unity in apparent contrast.",
-    "meaning": "Today, let yourself balance your inner opposites and find harmony in decisions or conflicts."
+    "title": "Yin Yang",
+    "chinese": "太极图",
+    "description": "The Yin Yang, or Taijitu, embodies the dance of opposites—light and dark, active and passive, heaven and earth. It is the ever-turning wheel of balance, showing that nothing exists in isolation and every force carries the seed of its opposite.",
+    "meaning": "Today invites you to honor balance. Where there is tension, seek harmony; where there is excess, find moderation. Let dualities guide you toward unity."
   },
   {
     "id": 2,
-    "title": "Taiji (太極)",
-    "explanation": "The Supreme Ultimate represents the origin of all things. From this infinite source arise yin and yang, manifesting the rhythm of the cosmos. It invites contemplation of the infinite and the cyclical nature of life, guiding one to attune with universal order.",
-    "meaning": "Today, tune into the flow of the universe and allow events to unfold naturally."
+    "title": "Taiji",
+    "chinese": "太極",
+    "description": "Taiji, the Supreme Ultimate, is the source from which Yin and Yang emerge. It is the infinite potential, the origin of movement and stillness, the wellspring of creation itself. To contemplate Taiji is to touch the boundless mystery of existence.",
+    "meaning": "If you receive Taiji today, step back from details and glimpse the larger whole. Your actions matter less than your alignment with the source of all things."
   },
   {
     "id": 3,
     "title": "Bagua (Eight Trigrams)",
-    "explanation": "Eight trigrams arranged in a circle, each representing a fundamental principle of nature: heaven, earth, fire, water, wind, thunder, mountain, and lake. Used in Taoist cosmology and the I Ching, it reflects patterns of change, offering insight into choices and destiny.",
-    "meaning": "Today, observe patterns around you and consider subtle shifts before making decisions."
+    "chinese": "八卦",
+    "description": "The Bagua represents the unfolding of the cosmos into patterns of change—heaven, earth, thunder, wind, water, fire, mountain, and lake. It is the heart of the I Ching, a mirror of the shifting interplay of life’s forces.",
+    "meaning": "Today is about seeing patterns. Look at your situation not as chaos, but as shifting trigrams. In change, you can discover guidance."
   },
   {
     "id": 4,
-    "title": "Enso (Zen Circle)",
-    "explanation": "A single brushstroke forming a circle, representing emptiness, completeness, and enlightenment. The circle embodies the perfection of imperfection, the transient nature of existence, and the unbroken flow of life. It invites mindfulness and contemplation of the present moment.",
-    "meaning": "Today, embrace the present fully and acknowledge your own completeness."
+    "title": "Enso",
+    "chinese": "",
+    "description": "The Enso is a single brushstroke circle, open or closed, that expresses enlightenment, emptiness, and the beauty of imperfection. It is the gesture of presence itself—immediate, alive, and beyond words.",
+    "meaning": "Receiving the Enso today asks you to embrace simplicity. Let go of striving for perfection and rest in what is whole within you right now."
   },
   {
     "id": 5,
     "title": "Lotus Flower",
-    "explanation": "Rising from the mud to bloom with pure beauty, the lotus symbolizes purity, awakening, and resilience. Its petals unfold toward the sun, reminding us to grow through adversity, shedding attachments, and embracing enlightenment with grace.",
-    "meaning": "Today, find strength in challenges and allow your true beauty to emerge."
+    "chinese": "莲花",
+    "description": "The lotus rises from the mud yet blooms pristine upon the water’s surface. A universal symbol of purity, resilience, and awakening, it shows that beauty is born through struggle and light emerges from darkness.",
+    "meaning": "Today, remember that your challenges are the mud nurturing your bloom. Trust your rising; you are closer to unfolding than you realize."
   },
   {
     "id": 6,
-    "title": "Wu Wei (無為) Calligraphy",
-    "explanation": "Representing effortless action, Wu Wei encourages flow with the natural order rather than forcing outcomes. It is the art of acting in harmony with the universe, allowing life to move without unnecessary resistance, embracing simplicity and spontaneous wisdom.",
-    "meaning": "Today, act with ease, letting intuition guide your steps without struggle."
+    "title": "Wu Wei",
+    "chinese": "無為",
+    "description": "Wu Wei, often translated as 'non-doing,' is not passivity but effortless alignment. It is the art of moving with the current rather than against it, letting action flow from harmony with the Tao.",
+    "meaning": "If Wu Wei appears today, release control. The more you push, the more resistance grows. Let the path unfold and act with ease."
   },
   {
     "id": 7,
-    "title": "Dragon (龍)",
-    "explanation": "A symbol of power, wisdom, and cosmic force, dragons embody spiritual strength and benevolence. They bring transformation, rain for fertility, and protection. Their majestic energy connects heaven and earth, inspiring courage, insight, and visionary action.",
-    "meaning": "Today, tap into your inner power and face challenges with wisdom and confidence."
+    "title": "Chinese Dragon",
+    "chinese": "龙",
+    "description": "The Chinese Dragon is a benevolent bringer of rain, wisdom, and transformation. Unlike its Western counterpart, it represents cosmic power in harmony, guiding heaven’s blessings to earth.",
+    "meaning": "Today’s dragon calls you to embrace your strength with kindness. Your power is best used not to dominate, but to uplift others."
   },
   {
     "id": 8,
-    "title": "Ancient Chinese Coin",
-    "explanation": "Round with a square hole, representing the union of heaven and earth. Historically used for prosperity, protection, and rituals, it symbolizes material and spiritual abundance, inviting reflection on what wealth and value truly mean.",
-    "meaning": "Today, consider abundance beyond material wealth; seek balance between spirit and matter."
+    "title": "Phoenix",
+    "chinese": "鳳凰",
+    "description": "The Phoenix rises from ashes, embodying rebirth, immortality, and virtue. In Taoist cosmology, it balances the dragon as yin balances yang, a symbol of renewal and harmony.",
+    "meaning": "If Phoenix comes to you today, a cycle is ending. Trust the burning away of the old, for what rises will carry new life and clarity."
   },
   {
     "id": 9,
-    "title": "Pearl / Flaming Jewel",
-    "explanation": "A luminous gem of enlightenment and cosmic wisdom, often carried by dragons. It radiates clarity, spiritual insight, and illumination, guiding seekers toward truth and higher understanding.",
-    "meaning": "Today, open your mind to insight and wisdom that transcends the ordinary."
+    "title": "Tiger",
+    "chinese": "虎",
+    "description": "The Tiger is the roar of courage, raw vitality, and fearless presence. It is yang energy embodied in fur and claw, reminding us to protect what matters with strength and precision.",
+    "meaning": "Today, let the Tiger remind you not to shrink from your power. Speak with clarity, act with boldness, but temper ferocity with wisdom."
   },
   {
     "id": 10,
-    "title": "Jade Disc (Bi)",
-    "explanation": "Circular jade artifacts representing heaven, clarity, and spiritual purity. The smooth surface and precious material invite meditation and connection with celestial order, reminding one of eternal truth and harmony.",
-    "meaning": "Today, seek clarity and remain grounded while aspiring to higher ideals."
+    "title": "Crane",
+    "chinese": "鶴",
+    "description": "The Crane stands as a symbol of longevity, peace, and meditation. Graceful and still, it is often depicted as a companion to sages, reminding us of the quiet strength found in patience.",
+    "meaning": "Today is a call to slow down. Move like the Crane—deliberate, serene, unhurried. In stillness, your wisdom will stretch its wings."
   },
   {
     "id": 11,
-    "title": "Fan",
-    "explanation": "A tool of meditation and discipline, the fan symbolizes refinement and hidden wisdom. Unfolding slowly, it teaches patience, the unveiling of knowledge, and the grace of subtle influence.",
-    "meaning": "Today, move with patience and reveal your wisdom gently, without force."
+    "title": "Butterfly",
+    "chinese": "蝶",
+    "description": "The Butterfly embodies transformation and the fleeting nature of existence. In Taoist lore, Zhuangzi dreamed he was a butterfly, awakening unsure of which was real—the man or the dream.",
+    "meaning": "Receiving the Butterfly today, you are reminded of impermanence. Trust in change, for every ending is already the beginning of something new."
   },
   {
     "id": 12,
-    "title": "Lantern",
-    "explanation": "A source of guidance and illumination, the lantern represents clarity in darkness. It embodies hope, understanding, and enlightenment, lighting the path for oneself and others.",
-    "meaning": "Today, act as a light for yourself and those who seek your guidance."
+    "title": "Pine Tree",
+    "chinese": "松",
+    "description": "The Pine tree is evergreen, a symbol of resilience, endurance, and immortality. Rooted deep, it withstands the harshest winters, standing steadfast through storms and cold.",
+    "meaning": "Today, embody the Pine’s constancy. Stand firm against life’s winds, but do not lose your evergreen heart. Strength lies in perseverance."
   },
   {
     "id": 13,
-    "title": "Incense Burner",
-    "explanation": "An emblem of prayer, mindfulness, and presence. Rising smoke connects the earthly with the divine, inviting reflection, meditation, and a calm center in the midst of life’s chaos.",
-    "meaning": "Today, cultivate mindfulness and connect with your inner stillness."
+    "title": "Bamboo",
+    "chinese": "竹",
+    "description": "Bamboo bends but does not break. It is strength in flexibility, hollow yet upright, reminding us of integrity balanced with adaptability. Its emptiness is space for the Tao to move through.",
+    "meaning": "Today, take the Bamboo as your guide. Yield where resistance is futile, yet hold fast to your true nature. Flexibility is strength."
   },
   {
     "id": 14,
-    "title": "Phoenix (鳳凰)",
-    "explanation": "Symbol of renewal, immortality, and balance with the dragon. The phoenix rises from ashes, embodying transformation, resilience, and spiritual grace, guiding the soul through cycles of death and rebirth.",
-    "meaning": "Today, embrace transformation and let go of what no longer serves you."
+    "title": "Plum Blossom",
+    "chinese": "梅花",
+    "description": "The Plum Blossom blooms in the bitter cold, heralding spring’s return. It is purity, perseverance, and hope in hardship, often honored as one of the 'Three Friends of Winter.'",
+    "meaning": "If you draw Plum Blossom today, your trials are the winter before renewal. Persevere—the frost will soon give way to blossoms."
   },
   {
     "id": 15,
-    "title": "Tiger (虎)",
-    "explanation": "The tiger embodies courage, strength, and yang energy. It represents earthly power, protection, and assertive action, reminding us to act decisively and honor our instincts.",
-    "meaning": "Today, trust your strength and courage to face challenges boldly."
+    "title": "Ancient Chinese Coin",
+    "chinese": "",
+    "description": "Round like heaven and square like earth, the ancient Chinese coin represents harmony between realms. It has long been a symbol of prosperity, fortune, and aligned abundance.",
+    "meaning": "Today, the coin invites you to see wealth not just in money but in harmony and connection. True fortune is already in your hands."
   },
   {
     "id": 16,
-    "title": "Crane (鶴)",
-    "explanation": "A symbol of longevity, peace, and meditation. Cranes soar with elegance and grace, reflecting harmony, spiritual aspiration, and serenity in life.",
-    "meaning": "Today, find peace in reflection and take time for quiet contemplation."
+    "title": "Pearl / Flaming Jewel",
+    "chinese": "",
+    "description": "The Pearl or Flaming Jewel is the luminous treasure sought by dragons. It symbolizes enlightenment, spiritual wisdom, and the light of truth burning in the darkness.",
+    "meaning": "Today, seek your inner jewel. Your wisdom is not outside, but glowing quietly within—waiting to be uncovered and shared."
   },
   {
     "id": 17,
-    "title": "Butterfly (蝶)",
-    "explanation": "Representing transformation, the butterfly embodies change, beauty, and Zhuangzi’s dream of fluid reality. It reminds us of the impermanence of life and the joy in metamorphosis.",
-    "meaning": "Today, embrace change and allow yourself to transform gracefully."
+    "title": "Jade Disc",
+    "chinese": "璧",
+    "description": "The Jade Disc, or Bi, is an ancient ritual object symbolizing heaven. Smooth, pure, and enduring, jade is prized for clarity and virtue, linking the earthly to the divine.",
+    "meaning": "If you receive the Jade Disc today, step into alignment with your higher self. Clarity and purity will be your guides if you listen closely."
   },
   {
     "id": 18,
-    "title": "Pine Tree (松)",
-    "explanation": "Symbol of resilience and immortality, the pine endures harsh seasons while remaining evergreen. It embodies patience, steadfastness, and the eternal flow of life.",
-    "meaning": "Today, stay resilient and remain steadfast through challenges."
+    "title": "Fan",
+    "chinese": "",
+    "description": "The fan, opening and closing with ease, represents both concealment and revelation. It is discipline, grace, and the quiet art of directing breath and energy.",
+    "meaning": "Today, let the fan remind you to control your inner winds. Breathe with intention, and your scattered thoughts will settle into harmony."
   },
   {
     "id": 19,
-    "title": "Bamboo (竹)",
-    "explanation": "A symbol of flexibility, integrity, and strength. Bamboo bends without breaking, representing adaptability, humility, and uprightness in character and spirit.",
-    "meaning": "Today, remain flexible and upright, adapting gracefully to circumstances."
+    "title": "Lantern",
+    "chinese": "",
+    "description": "The lantern brings light into darkness, symbolizing guidance, clarity, and the illumination of wisdom. It is both the light of others and the light we carry within.",
+    "meaning": "If you see the Lantern today, carry your inner flame into places of shadow. Be both guided and a guide for those around you."
   },
   {
     "id": 20,
-    "title": "Plum Blossom (梅花)",
-    "explanation": "Blooming in winter’s harshness, the plum blossom embodies perseverance, purity, and hope. Its delicate flowers remind us that beauty emerges even in adversity.",
-    "meaning": "Today, persevere and find beauty and strength in challenging moments."
+    "title": "Incense Burner",
+    "chinese": "",
+    "description": "Rising smoke from the incense burner connects the earthly and divine. It is a symbol of prayer, mindfulness, and presence, filling space with sacred awareness.",
+    "meaning": "Today, the incense urges you to make space sacred. Attend to the present moment with reverence; the mundane can become holy if approached with care."
   },
   {
     "id": 21,
     "title": "Pan Chang Knot",
-    "explanation": "An eternal knot representing cycles, continuity, and infinite flow. Its interwoven lines symbolize harmony, eternal life, and the subtle interconnection of all things.",
-    "meaning": "Today, reflect on continuity and your connection to the cycles of life."
+    "chinese": "",
+    "description": "The Pan Chang knot weaves endlessly without beginning or end. It symbolizes eternity, interconnection, and the infinite cycles of life and death.",
+    "meaning": "Today, remember the web of life you are part of. Nothing stands alone; your story is woven with all others. See the endless thread."
   },
   {
     "id": 22,
     "title": "Double Coin Knot",
-    "explanation": "A decorative knot symbolizing prosperity, abundance, and balance in wealth. Its interlaced loops remind us of fortune that comes from harmony and careful cultivation.",
-    "meaning": "Today, invite prosperity through balance, mindful effort, and harmony."
+    "chinese": "",
+    "description": "Two coins tied together represent prosperity and union. It is a charm of wealth, fortune, and partnership blessed by harmony.",
+    "meaning": "Today’s knot calls you to honor both abundance and connection. Prosperity grows best when shared in unity with others."
   },
   {
     "id": 23,
     "title": "Good Luck Knot",
-    "explanation": "A charm of blessing and auspiciousness. Its intricate loops weave protection, favor, and good fortune into daily life, reminding one to carry intention and hope in each action.",
-    "meaning": "Today, welcome blessings and maintain a hopeful, positive spirit."
+    "chinese": "",
+    "description": "The Good Luck knot is a woven charm carrying blessings, protection, and auspicious fortune. Its pattern is both simple and profound, a reminder of the blessings interlaced in daily life.",
+    "meaning": "If you draw this knot today, remember that luck is not random—it is the weaving of kindness, presence, and openness into your path."
   },
   {
     "id": 24,
     "title": "Button Knot",
-    "explanation": "Represents unity, safety, and secure connection. Small yet intricate, it emphasizes attention to detail and the interconnectedness of all actions.",
-    "meaning": "Today, focus on strengthening bonds and honoring unity in relationships."
+    "chinese": "",
+    "description": "The Button knot is compact and strong, a charm of unity, safety, and centeredness. It binds firmly, symbolizing security and wholeness.",
+    "meaning": "Today, the Button knot calls you to return to center. Bind your energy inward, stay rooted, and let unity give you strength."
   },
   {
     "id": 25,
     "title": "Cloverleaf Knot",
-    "explanation": "Symbol of harmony, growth, and natural abundance. Its symmetrical design evokes balance, progress, and flourishing energy in both spiritual and material life.",
-    "meaning": "Today, nurture harmony and cultivate growth in your pursuits."
+    "chinese": "",
+    "description": "The Cloverleaf knot, branching yet united, represents harmony and growth. It is the intertwining of multiple paths that remain rooted in one essence.",
+    "meaning": "If you hold this knot today, look at your paths of growth. Multiple choices may lie ahead, but all are branches of the same root."
   },
   {
     "id": 26,
-    "title": "White Tiger (Baihu, 白虎)",
-    "explanation": "Guardian of the West, autumn, and metal element. Represents protection, courage, and disciplined strength, often appearing as a fierce yet noble presence.",
-    "meaning": "Today, call upon your courage and protective instincts to defend your values."
+    "title": "White Tiger",
+    "chinese": "白虎",
+    "description": "The White Tiger is the guardian of the West, metal element, and autumn. It embodies strength, ferocity, and protection, one of the four great celestial beasts of Taoist cosmology.",
+    "meaning": "Today, the White Tiger empowers you to protect what is sacred. Stand firm, but know that true strength also requires restraint."
   },
   {
     "id": 27,
-    "title": "Azure Dragon (Qinglong, 青龙)",
-    "explanation": "Guardian of the East, spring, and wood element. Symbolizing power, renewal, and auspicious fortune, the dragon embodies cosmic energy, vitality, and growth.",
-    "meaning": "Today, embrace renewal and channel your energy for growth and vitality."
+    "title": "Azure Dragon",
+    "chinese": "青龙",
+    "description": "The Azure Dragon rules the East, spring, and wood element. Majestic and benevolent, it symbolizes renewal, fortune, and the power of cosmic order.",
+    "meaning": "Today, the Azure Dragon heralds new beginnings. Step forward with courage—the season of renewal is upon you."
   },
   {
     "id": 28,
-    "title": "Vermilion Bird (Zhuque, 朱雀)",
-    "explanation": "Guardian of the South, summer, and fire element. A fiery, phoenix-like creature representing rebirth, beauty, and elegance. Inspires transformative energy and the illumination of passions.",
-    "meaning": "Today, ignite your creativity and allow your passions to guide you wisely."
+    "title": "Vermilion Bird",
+    "chinese": "朱雀",
+    "description": "The Vermilion Bird, guardian of the South, is a fiery red creature like a phoenix. It embodies summer, fire, elegance, and rebirth, a symbol of beauty and transformation.",
+    "meaning": "If Zhuque comes today, honor your creative fire. Express beauty, let passion guide you, and rise renewed through self-expression."
   },
   {
     "id": 29,
-    "title": "Black Tortoise (Xuanwu, 玄武)",
-    "explanation": "Guardian of the North, winter, and water element. Often depicted as a tortoise entwined with a snake, symbolizing longevity, endurance, and wise protection in the cycles of life.",
-    "meaning": "Today, embody patience, endurance, and wisdom in facing challenges."
+    "title": "Black Tortoise",
+    "chinese": "玄武",
+    "description": "The Black Tortoise, entwined with a snake, guards the North, winter, and the water element. It is longevity, endurance, and wisdom, often seen as a protector of truth.",
+    "meaning": "Today, Xuanwu reminds you to endure the cold seasons of life. Wisdom comes through patience and the courage to wait."
   },
   {
     "id": 30,
-    "title": "Qilin (麒麟)",
-    "explanation": "A gentle chimera with deer body, dragon scales, and ox tail. The Qilin heralds peace, prosperity, and virtuous leadership. Often seen as a good omen for the birth of sages, inspiring moral integrity and harmony.",
-    "meaning": "Today, invite auspiciousness and act with integrity and compassion in your endeavors."
+    "title": "Qilin",
+    "chinese": "麒麟",
+    "description": "The Qilin is a gentle chimera, with deer body, dragon scales, and ox tail. It is an omen of peace and the arrival of sages, a bringer of harmony and prosperity.",
+    "meaning": "If Qilin appears today, your presence is a blessing. Walk gently; your kindness can usher harmony into the lives of others."
+  },
+  {
+    "id": 31,
+    "title": "Guardian Lion / Fu Dog",
+    "chinese": "石狮",
+    "description": "Guardian Lions, or Fu Dogs, stand at temple gates, fierce protectors against negativity. They embody courage, guardianship, and sacred responsibility.",
+    "meaning": "Today, the Fu Dog calls you to guard your boundaries. Protect your inner temple and stand watch with noble strength."
+  },
+  {
+    "id": 32,
+    "title": "Bixi",
+    "chinese": "赑屃",
+    "description": "Bixi, the dragon-turtle hybrid, carries immense stone slabs upon its back. It symbolizes strength, burden-bearing, and memory carved in permanence.",
+    "meaning": "If Bixi visits you today, honor the weight you carry. Though heavy, it builds your endurance and preserves your story."
+  },
+  {
+    "id": 33,
+    "title": "Fenghuang",
+    "chinese": "凤凰",
+    "description": "The Fenghuang is the Chinese Phoenix, balancing the dragon’s yang with its yin. A bird of harmony, virtue, and prosperity, it symbolizes the union of heaven and earth.",
+    "meaning": "Today, Fenghuang invites you to balance. Let grace temper strength and cultivate harmony in your relationships."
+  },
+  {
+    "id": 34,
+    "title": "Pixiu",
+    "chinese": "貔貅",
+    "description": "Pixiu, a winged lion-dragon, is a fierce guardian and attractor of wealth. It is believed to devour riches without release, symbolizing accumulation and protection.",
+    "meaning": "If Pixiu appears today, focus on guarding your treasures—both material and spiritual. Prosperity flows when it is cared for wisely."
   }
 ]
