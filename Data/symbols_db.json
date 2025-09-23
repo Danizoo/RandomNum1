@@ -50,10 +50,10 @@
   },
   {
     "id": 8,
-    "title": "Phoenix",
-    "chinese": "鳳凰",
-    "description": "The Phoenix rises from ashes, embodying rebirth, immortality, and virtue. In Taoist cosmology, it balances the dragon as yin balances yang, a symbol of renewal and harmony.",
-    "meaning": "If Phoenix comes to you today, a cycle is ending. Trust the burning away of the old, for what rises will carry new life and clarity."
+    "title": "Fenghuang",
+    "chinese": "凤凰",
+    "description": "The Fenghuang is the Chinese Phoenix, balancing the dragon’s yang with its yin. A bird of harmony, virtue, and prosperity, it symbolizes the union of heaven and earth.",
+    "meaning": "Today, Fenghuang invites you to balance. Let grace temper strength and cultivate harmony in your relationships."
   },
   {
     "id": 9,
@@ -225,19 +225,13 @@
   },
   {
     "id": 33,
-    "title": "Fenghuang",
-    "chinese": "凤凰",
-    "description": "The Fenghuang is the Chinese Phoenix, balancing the dragon’s yang with its yin. A bird of harmony, virtue, and prosperity, it symbolizes the union of heaven and earth.",
-    "meaning": "Today, Fenghuang invites you to balance. Let grace temper strength and cultivate harmony in your relationships."
-  },
-  {
-    "id": 34,
     "title": "Pixiu",
     "chinese": "貔貅",
     "description": "Pixiu, a winged lion-dragon, is a fierce guardian and attractor of wealth. It is believed to devour riches without release, symbolizing accumulation and protection.",
     "meaning": "If Pixiu appears today, focus on guarding your treasures—both material and spiritual. Prosperity flows when it is cared for wisely."
   }
 ]
+
 
 
 
