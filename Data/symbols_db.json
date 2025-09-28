@@ -23,7 +23,7 @@
   {
     "id": 4,
     "title": "Enso",
-    "chinese": "",
+    "chinese": "圆相",
     "description": "The Enso is a single brushstroke circle, open or closed, that expresses enlightenment, emptiness, and the beauty of imperfection. It is the gesture of presence itself—immediate, alive, and beyond words.",
     "meaning": "If the Enso appears today, you may feel invited to rest in simplicity. Instead of striving for flawlessness, you might reflect on the completeness already present in each moment, even if it comes with rough edges or unfinished lines."
   },
@@ -100,14 +100,14 @@
   {
     "id": 15,
     "title": "Ancient Chinese Coin",
-    "chinese": "",
+    "chinese": "古币",
     "description": "Round like heaven and square like earth, the ancient Chinese coin represents harmony between realms. It has long been a symbol of prosperity, fortune, and aligned abundance.",
     "meaning": "If the ancient coin appears today, you might reflect on what abundance truly means for you. Wealth is not always measured in possessions; sometimes it lies in balance, relationship, or the clarity of knowing what already supports you."
   },
   {
     "id": 16,
     "title": "Pearl / Flaming Jewel",
-    "chinese": "",
+    "chinese": "宝珠",
     "description": "The Pearl or Flaming Jewel is the luminous treasure sought by dragons. It symbolizes enlightenment, spiritual wisdom, and the light of truth burning in the darkness.",
     "meaning": "If the Pearl shows itself today, you might sense a light within that doesn’t ask to be polished before it shines. Wisdom doesn’t always arrive through effort—it can surface when you pause long enough to notice what is already glowing quietly inside."
   },
@@ -121,56 +121,56 @@
   {
     "id": 18,
     "title": "Fan",
-    "chinese": "",
+    "chinese": "扇子",
     "description": "The fan, opening and closing with ease, represents both concealment and revelation. It is discipline, grace, and the quiet art of directing breath and energy.",
     "meaning": "If the Fan comes forward today, you might reflect on the rhythm of breath and the spaces that open when energy is directed with subtlety. Sometimes what’s concealed or revealed isn’t about hiding, but about allowing timing and intention to shape expression."
   },
   {
     "id": 19,
     "title": "Lantern",
-    "chinese": "",
+    "chinese": "灯笼",
     "description": "The lantern brings light into darkness, symbolizing guidance, clarity, and the illumination of wisdom. It is both the light of others and the light we carry within.",
     "meaning": "If the Lantern lights your day, you may notice how even a small glow can soften uncertainty. Illumination doesn’t always chase away darkness; sometimes it simply makes the shadows feel less absolute and the path ahead a little more navigable."
   },
   {
     "id": 20,
     "title": "Incense Burner",
-    "chinese": "",
+    "chinese": "香炉",
     "description": "Rising smoke from the incense burner connects the earthly and divine. It is a symbol of prayer, mindfulness, and presence, filling space with sacred awareness.",
     "meaning": "If the Incense Burner appears today, you might reflect on the way presence can subtly change a space. Stillness doesn’t have to be silent to be sacred—sometimes it rises gently, like a wisp of intention moving through the air."
   },
   {
     "id": 21,
     "title": "Pan Chang Knot",
-    "chinese": "",
+    "chinese": "盘长结",
     "description": "The Pan Chang knot weaves endlessly without beginning or end. It symbolizes eternity, interconnection, and the infinite cycles of life and death.",
     "meaning": "If the Pan Chang Knot shows up today, you may sense how continuity weaves through your experiences in ways not always seen. The threads of connection don’t need a beginning or end to feel meaningful; they simply move through time with quiet persistence."
   },
   {
     "id": 22,
     "title": "Double Coin Knot",
-    "chinese": "",
+    "chinese": "双钱结",
     "description": "Two coins tied together represent prosperity and union. It is a charm of wealth, fortune, and partnership blessed by harmony.",
     "meaning": "If the Double Coin Knot appears today, you might reflect on the way partnership or connection enriches what you already hold. Prosperity isn’t always an individual path—it can form through mutual support, shared intention, or quiet cooperation."
   },
   {
     "id": 23,
     "title": "Good Luck Knot",
-    "chinese": "",
+    "chinese": "吉祥结",
     "description": "The Good Luck knot is a woven charm carrying blessings, protection, and auspicious fortune. Its pattern is both simple and profound, a reminder of the blessings interlaced in daily life.",
     "meaning": "If the Good Luck Knot comes to you today, you may notice small blessings woven through ordinary moments. Fortune can emerge not as sudden luck, but as the gradual threading of kindness, timing, and openness along the edges of your day."
   },
   {
     "id": 24,
     "title": "Button Knot",
-    "chinese": "",
+    "chinese": "纽扣结",
     "description": "The Button knot is compact and strong, a charm of unity, safety, and centeredness. It binds firmly, symbolizing security and wholeness.",
     "meaning": "If the Button Knot reveals itself today, you might sense the value of feeling inwardly gathered. Security doesn’t always require walls—it can also be the centeredness that comes from drawing your energy closer to where you actually are."
   },
   {
     "id": 25,
     "title": "Cloverleaf Knot",
-    "chinese": "",
+    "chinese": "四叶结",
     "description": "The Cloverleaf knot, branching yet united, represents harmony and growth. It is the intertwining of multiple paths that remain rooted in one essence.",
     "meaning": "If the Cloverleaf Knot appears today, you may reflect on how different directions in life can still share a common origin. Growth doesn’t always require certainty—it can unfold along multiple branches while remaining rooted in the same quiet source."
   },
@@ -245,6 +245,7 @@
   "meaning": "If the Tea Ceremony appears today, you may find meaning in the smallest gestures. Ordinary moments can carry clarity when approached with presence, and sharing space or stillness with yourself or others can become its own kind of quiet reverence."
   }
 ]
+
 
 
 
