@@ -17,14 +17,14 @@
     "id": 3,
     "title": "Bagua (Eight Trigrams)",
     "chinese": "八卦",
-    "description": "The Bagua represents the unfolding of the cosmos into patterns of change—heaven, earth, thunder, wind, water, fire, mountain, and lake. It is the heart of the I Ching, a mirror of the shifting interplay of life’s forces.",
+    "description": "The Bagua represents the unfolding of the cosmos into patterns of change-heaven, earth, thunder, wind, water, fire, mountain, and lake. It is the heart of the I Ching, a mirror of the shifting interplay of life’s forces.",
     "meaning": "If the Bagua reveals itself today, consider noticing the patterns shaping your experience. What may seem like randomness could simply be movement between changing forces. Let the idea of shifting trigrams open space for insight rather than control."
   },
   {
     "id": 4,
     "title": "Enso",
     "chinese": "圆相",
-    "description": "The Enso is a single brushstroke circle, open or closed, that expresses enlightenment, emptiness, and the beauty of imperfection. It is the gesture of presence itself—immediate, alive, and beyond words.",
+    "description": "The Enso is a single brushstroke circle, open or closed, that expresses enlightenment, emptiness, and the beauty of imperfection. It is the gesture of presence itself-immediate, alive, and beyond words.",
     "meaning": "If the Enso appears today, you may feel invited to rest in simplicity. Instead of striving for flawlessness, you might reflect on the completeness already present in each moment, even if it comes with rough edges or unfinished lines."
   },
   {
@@ -60,7 +60,7 @@
     "title": "Tiger",
     "chinese": "虎",
     "description": "The Tiger is the roar of courage, raw vitality, and fearless presence. It is yang energy embodied in fur and claw, reminding us to protect what matters with strength and precision.",
-    "meaning": "If the Tiger crosses your path today, you may feel a stirring of courage or clarity in how you show up. Boldness does not always need volume—it can be the quiet confidence of knowing when to act, when to speak, and when to stand your ground."
+    "meaning": "If the Tiger crosses your path today, you may feel a stirring of courage or clarity in how you show up. Boldness does not always need volume-it can be the quiet confidence of knowing when to act, when to speak, and when to stand your ground."
   },
   {
     "id": 10,
@@ -74,7 +74,7 @@
     "title": "Butterfly",
     "chinese": "蝶",
     "description": "The Butterfly embodies transformation, impermanence, and the delicate dance of existence. Its fleeting life and graceful flight remind us that all things are temporary, yet profoundly beautiful.\nIn Taoist lore, Zhuangzi dreamed he was a butterfly, awakening uncertain if he was man or butterfly - a poetic reflection on the fluidity of identity and reality. It symbolizes the soul’s freedom to transcend, the joy of change, and the subtle wisdom that comes from letting go.",
-    "meaning": "If the Butterfly appears today, you might reflect on how change rarely arrives all at once. Transformation can be light, brief, and almost ungraspable—yet deeply real. You may notice moments of becoming without needing to define what comes after."
+    "meaning": "If the Butterfly appears today, you might reflect on how change rarely arrives all at once. Transformation can be light, brief, and almost ungraspable-yet deeply real. You may notice moments of becoming without needing to define what comes after."
   },
   {
     "id": 12,
@@ -88,14 +88,14 @@
     "title": "Bamboo",
     "chinese": "竹",
     "description": "Bamboo bends but does not break. It is strength in flexibility, hollow yet upright, reminding us of integrity balanced with adaptability. Its emptiness is space for the Tao to move through.",
-    "meaning": "If Bamboo presents itself today, you might reflect on the power of resilience shaped by flexibility. Yielding does not mean losing your form—it may simply mean knowing when to bend so that your deeper nature remains intact."
+    "meaning": "If Bamboo presents itself today, you might reflect on the power of resilience shaped by flexibility. Yielding does not mean losing your form-it may simply mean knowing when to bend so that your deeper nature remains intact."
   },
   {
     "id": 14,
     "title": "Plum Blossom",
     "chinese": "梅花",
     "description": "The Plum Blossom blooms in the bitter cold, heralding spring’s return. It is purity, perseverance, and hope in hardship, often honored as one of the 'Three Friends of Winter.'",
-    "meaning": "If the Plum Blossom arrives today, you may find yourself contemplating the way beauty and hardship often emerge side by side. The cold does not cancel the bloom—it frames it. Renewal may be closer than challenge makes it seem."
+    "meaning": "If the Plum Blossom arrives today, you may find yourself contemplating the way beauty and hardship often emerge side by side. The cold does not cancel the bloom-it frames it. Renewal may be closer than challenge makes it seem."
   },
   {
     "id": 15,
@@ -109,14 +109,14 @@
     "title": "Pearl / Flaming Jewel",
     "chinese": "宝珠",
     "description": "The Pearl or Flaming Jewel is the luminous treasure sought by dragons. It symbolizes enlightenment, spiritual wisdom, and the light of truth burning in the darkness.",
-    "meaning": "If the Pearl shows itself today, you might sense a light within that doesn’t ask to be polished before it shines. Wisdom doesn’t always arrive through effort—it can surface when you pause long enough to notice what is already glowing quietly inside."
+    "meaning": "If the Pearl shows itself today, you might sense a light within that doesn’t ask to be polished before it shines. Wisdom doesn’t always arrive through effort-it can surface when you pause long enough to notice what is already glowing quietly inside."
   },
   {
     "id": 17,
     "title": "Jade Disc",
     "chinese": "璧",
     "description": "The Jade Disc, or Bi, is an ancient ritual object symbolizing heaven. Smooth, pure, and enduring, jade is prized for clarity and virtue, linking the earthly to the divine.",
-    "meaning": "If the Jade Disc appears today, you may find yourself drawn to a sense of clarity or refinement in thought or intention. Alignment isn’t about perfection—it can simply be the gentle recognition of what feels true and steady beneath distraction."
+    "meaning": "If the Jade Disc appears today, you may find yourself drawn to a sense of clarity or refinement in thought or intention. Alignment isn’t about perfection-it can simply be the gentle recognition of what feels true and steady beneath distraction."
   },
   {
     "id": 18,
@@ -137,7 +137,7 @@
     "title": "Incense Burner",
     "chinese": "香炉",
     "description": "Rising smoke from the incense burner connects the earthly and divine. It is a symbol of prayer, mindfulness, and presence, filling space with sacred awareness.",
-    "meaning": "If the Incense Burner appears today, you might reflect on the way presence can subtly change a space. Stillness doesn’t have to be silent to be sacred—sometimes it rises gently, like a wisp of intention moving through the air."
+    "meaning": "If the Incense Burner appears today, you might reflect on the way presence can subtly change a space. Stillness doesn’t have to be silent to be sacred-sometimes it rises gently, like a wisp of intention moving through the air."
   },
   {
     "id": 21,
@@ -151,7 +151,7 @@
     "title": "Double Coin Knot",
     "chinese": "双钱结",
     "description": "Two coins tied together represent prosperity and union. It is a charm of wealth, fortune, and partnership blessed by harmony.",
-    "meaning": "If the Double Coin Knot appears today, you might reflect on the way partnership or connection enriches what you already hold. Prosperity isn’t always an individual path—it can form through mutual support, shared intention, or quiet cooperation."
+    "meaning": "If the Double Coin Knot appears today, you might reflect on the way partnership or connection enriches what you already hold. Prosperity isn’t always an individual path-it can form through mutual support, shared intention, or quiet cooperation."
   },
   {
     "id": 23,
@@ -165,14 +165,14 @@
     "title": "Button Knot",
     "chinese": "纽扣结",
     "description": "The Button knot is compact and strong, a charm of unity, safety, and centeredness. It binds firmly, symbolizing security and wholeness.",
-    "meaning": "If the Button Knot reveals itself today, you might sense the value of feeling inwardly gathered. Security doesn’t always require walls—it can also be the centeredness that comes from drawing your energy closer to where you actually are."
+    "meaning": "If the Button Knot reveals itself today, you might sense the value of feeling inwardly gathered. Security doesn’t always require walls-it can also be the centeredness that comes from drawing your energy closer to where you actually are."
   },
   {
     "id": 25,
     "title": "Cloverleaf Knot",
     "chinese": "四叶结",
     "description": "The Cloverleaf knot, branching yet united, represents harmony and growth. It is the intertwining of multiple paths that remain rooted in one essence.",
-    "meaning": "If the Cloverleaf Knot appears today, you may reflect on how different directions in life can still share a common origin. Growth doesn’t always require certainty—it can unfold along multiple branches while remaining rooted in the same quiet source."
+    "meaning": "If the Cloverleaf Knot appears today, you may reflect on how different directions in life can still share a common origin. Growth doesn’t always require certainty-it can unfold along multiple branches while remaining rooted in the same quiet source."
   },
   {
     "id": 26,
@@ -186,14 +186,14 @@
     "title": "Azure Dragon",
     "chinese": "青龙",
     "description": "The Azure Dragon rules the East, spring, and wood element. Majestic and benevolent, it symbolizes renewal, fortune, and the power of cosmic order.",
-    "meaning": "If the Azure Dragon arrives today, you may feel a subtle stirring of renewal, like the quiet shift before spring. Beginnings don’t need declarations—they often start as small movements of courage or curiosity rising from within."
+    "meaning": "If the Azure Dragon arrives today, you may feel a subtle stirring of renewal, like the quiet shift before spring. Beginnings don’t need declarations-they often start as small movements of courage or curiosity rising from within."
   },
   {
     "id": 28,
     "title": "Vermilion Bird",
     "chinese": "朱雀",
     "description": "The Vermilion Bird, guardian of the South, is a fiery red creature like a phoenix. It embodies summer, fire, elegance, and rebirth, a symbol of beauty and transformation.",
-    "meaning": "If the Vermilion Bird appears today, you might reflect on the role of creativity or expression in your own renewal. Transformation doesn’t always burn down the old—it can also kindle something bright through beauty, passion, or heartfelt release."
+    "meaning": "If the Vermilion Bird appears today, you might reflect on the role of creativity or expression in your own renewal. Transformation doesn’t always burn down the old-it can also kindle something bright through beauty, passion, or heartfelt release."
   },
   {
     "id": 29,
@@ -221,14 +221,14 @@
     "title": "Bixi",
     "chinese": "赑屃",
     "description": "Bixi, the dragon-turtle hybrid, carries immense stone slabs upon its back. It symbolizes strength, burden-bearing, and memory carved in permanence.",
-    "meaning": "If Bixi shows up today, you might reflect on the weight you carry—not as a burden to escape, but as something that shapes your strength and story. Some loads are not meant to be hurried; they carve endurance over time."
+    "meaning": "If Bixi shows up today, you might reflect on the weight you carry-not as a burden to escape, but as something that shapes your strength and story. Some loads are not meant to be hurried; they carve endurance over time."
   },
   {
     "id": 33,
     "title": "Pixiu",
     "chinese": "貔貅",
     "description": "Pixiu, a winged lion-dragon, is a fierce guardian and attractor of wealth. It is believed to devour riches without release, symbolizing accumulation and protection.",
-    "meaning": "If Pixiu appears today, you may sense a desire to guard what you value, whether material or spiritual. Holding onto something doesn’t always mean clinging—it can mean honoring the energy, effort, or meaning that helped it arrive in your hands."
+    "meaning": "If Pixiu appears today, you may sense a desire to guard what you value, whether material or spiritual. Holding onto something doesn’t always mean clinging-it can mean honoring the energy, effort, or meaning that helped it arrive in your hands."
   },
   {
   "id": 34,
@@ -248,10 +248,11 @@
   "id": 36,
   "title": "Dragon and Tiger",
   "chinese": "龙虎图",
-  "description": "In Taoist lore, the Dragon is the power of Heaven — the unseen, the intuitive, the boundless breath of spirit. The Tiger is the force of Earth — the visible, the embodied, the disciplined strike of form. They do not fight; they circle one another in reverence. Their meeting is not conquest but cultivation — the alchemy of turning raw instinct into awakened power.",
-  "meaning": "If Dragon and Tiger appear today, you are being asked to reconcile what you feel with what you do. Let your inner knowing guide your outer strength. True power does not rush or dominate — it listens, and then moves when both Heaven and Earth agree."
+  "description": "In Taoist lore, the Dragon is the power of Heaven - the unseen, the intuitive, the boundless breath of spirit. The Tiger is the force of Earth - the visible, the embodied, the disciplined strike of form. They do not fight; they circle one another in reverence. Their meeting is not conquest but cultivation - the alchemy of turning raw instinct into awakened power.",
+  "meaning": "If Dragon and Tiger appear today, you are being asked to reconcile what you feel with what you do. Let your inner knowing guide your outer strength. True power does not rush or dominate - it listens, and then moves when both Heaven and Earth agree."
   }
 ]
+
 
 
 
