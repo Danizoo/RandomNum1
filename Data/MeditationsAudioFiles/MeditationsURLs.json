@@ -1,0 +1,8 @@
+{
+  "meditations": {
+    "2": "https://example.com/meditations/2_v3.mp3",
+    "5": "https://example.com/meditations/5_v1.mp3",
+    "10": "https://example.com/meditations/10_v2.mp3",
+    "20": "https://example.com/meditations/20_v1.mp3"
+  }
+}
