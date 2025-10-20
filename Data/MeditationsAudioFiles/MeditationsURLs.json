@@ -1,8 +1,8 @@
 {
   "meditations": {
-    "2": "https://example.com/meditations/2_v3.mp3",
-    "5": "https://example.com/meditations/5_v1.mp3",
-    "10": "https://example.com/meditations/10_v2.mp3",
-    "20": "https://example.com/meditations/20_v1.mp3"
+    "2": "https://github.com/Danizoo/RandomNum1/raw/refs/heads/main/Data/MeditationsAudioFiles/2MinMeditation%20-%20heartChakra4-bellMeditation.mp3",
+    "5": "https://github.com/Danizoo/RandomNum1/raw/refs/heads/main/Data/MeditationsAudioFiles/5MinMeditation%20-%20heartChakra4-bellMeditation.mp3",
+    "10": "https://github.com/Danizoo/RandomNum1/raw/refs/heads/main/Data/MeditationsAudioFiles/10MinMeditation%20-%20heartChakra4-bellMeditation.mp3",
+    "20": "https://github.com/Danizoo/RandomNum1/raw/refs/heads/main/Data/MeditationsAudioFiles/20MinMeditation%20-%20heartChakra4-bellMeditation.mp3"
   }
 }
