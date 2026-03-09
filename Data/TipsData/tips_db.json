@@ -1,0 +1,37 @@
+{
+  "1": {
+    "key": "crane",
+    "wg": "Ho⁴-fêng¹",
+    "cn": "鶴風",
+    "action": "The Crane’s Soar",
+    "lore": "As the crane soars above the mist, your support lifts this path to new heights."
+  },
+  "2": {
+    "key": "deer",
+    "wg": "Lu⁴-p'ao⁴",
+    "cn": "鹿跑",
+    "action": "The Deer’s Bound",
+    "lore": "The Deer bounds through the silent forest. Your nimble gift provides the agility needed to navigate the unseen path."
+  },
+  "3": {
+    "key": "tiger",
+    "wg": "Hu³-hsiao⁴",
+    "cn": "虎嘯",
+    "action": "The Tiger’s Roar",
+    "lore": "The mountain trembles. Your strength provides a roar of confidence for the future."
+  },
+  "4": {
+    "key": "phoenix",
+    "wg": "Fêng⁴-shêng¹",
+    "cn": "鳳昇",
+    "action": "The Phoenix’s Rise",
+    "lore": "Transcending the cycle. Your gift allows the spirit of the Tao to rise and transform."
+  },
+  "5": {
+    "key": "dragon",
+    "wg": "Lung²-ch’i⁴",
+    "cn": "龍氣",
+    "action": "The Dragon’s Breath",
+    "lore": "You have touched the breath of the universe. The Tao flows through your great kindness."
+  }
+}
