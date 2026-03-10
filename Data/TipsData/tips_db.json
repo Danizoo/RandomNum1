@@ -20,7 +20,7 @@
     "wg": "Hu³-hsiao⁴",
     "cn": "虎嘯",
     "action": "The Tiger’s Roar",
-    "lore": "The Amber Monarch roars,\nand the mountains answer.\nYour power protects the sacred silence of the Tao.",
+    "lore": "The Amber Monarch roars in great appreciation, and the mountains answer.\nYour power protects the sacred silence of the Tao.",
     "bg": "https://raw.githubusercontent.com/Danizoo/RandomNum1/refs/heads/main/Data/TipsData/Images/Tip05img.jpg"
   },
   "4": {
@@ -40,6 +40,7 @@
     "bg": "https://raw.githubusercontent.com/Danizoo/RandomNum1/refs/heads/main/Data/TipsData/Images/Tip05img.jpg"
   }
 }
+
 
 
 
