@@ -5,7 +5,7 @@
     "cn": "龜步",
     "action": "The Tortoise’s Step",
     "lore": "The Obsidian Sentinel stands at the edge of the world.\nYour stillness ensures the path remains for those who follow.",
-    "bg": "https://raw.githubusercontent.com/Danizoo/RandomNum1/refs/heads/main/Data/TipsData/Images/Tip05img.jpg"
+    "bg": "https://raw.githubusercontent.com/Danizoo/RandomNum1/refs/heads/main/Data/TipsData/Images/Tip01img.jpg"
   },
   "2": {
     "key": "crane",
@@ -13,7 +13,7 @@
     "cn": "鶴風",
     "action": "The Crane’s Soar",
     "lore": "The Ethereal Voyager finds the hidden thermal.\nYour grace allows the Way to reach the highest peaks.",
-    "bg": "https://raw.githubusercontent.com/Danizoo/RandomNum1/refs/heads/main/Data/TipsData/Images/Tip05img.jpg"
+    "bg": "https://raw.githubusercontent.com/Danizoo/RandomNum1/refs/heads/main/Data/TipsData/Images/Tip02img.jpg"
   },
   "3": {
     "key": "tiger",
@@ -21,7 +21,7 @@
     "cn": "虎嘯",
     "action": "The Tiger’s Roar",
     "lore": "The Amber Monarch roars in great appreciation, and the mountains answer.\nYour power protects the sacred silence of the Tao.",
-    "bg": "https://raw.githubusercontent.com/Danizoo/RandomNum1/refs/heads/main/Data/TipsData/Images/Tip05img.jpg"
+    "bg": "https://raw.githubusercontent.com/Danizoo/RandomNum1/refs/heads/main/Data/TipsData/Images/Tip03img.jpg"
   },
   "4": {
     "key": "phoenix",
@@ -29,7 +29,7 @@
     "cn": "鳳昇",
     "action": "The Phoenix’s Rise",
     "lore": "The Crimson Sovereign rises from the embers.\nYour spirit transforms the old into the eternal.",
-    "bg": "https://raw.githubusercontent.com/Danizoo/RandomNum1/refs/heads/main/Data/TipsData/Images/Tip05img.jpg"
+    "bg": "https://raw.githubusercontent.com/Danizoo/RandomNum1/refs/heads/main/Data/TipsData/Images/Tip04img.jpg"
   },
   "5": {
     "key": "dragon",
@@ -40,6 +40,7 @@
     "bg": "https://raw.githubusercontent.com/Danizoo/RandomNum1/refs/heads/main/Data/TipsData/Images/Tip05img.jpg"
   }
 }
+
 
 
 
