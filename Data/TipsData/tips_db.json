@@ -1,37 +1,37 @@
 {
   "1": {
+    "key": "tortoise",
+    "wg": "Kuei¹-pu⁴",
+    "cn": "龜步",
+    "action": "The Tortoise’s Step",
+    "lore": "The Obsidian Sentinel stands at the edge of the world. Your stillness ensures the path remains for those who follow."
+  },
+  "2": {
     "key": "crane",
     "wg": "Ho⁴-fêng¹",
     "cn": "鶴風",
     "action": "The Crane’s Soar",
-    "lore": "As the crane soars above the mist, your support lifts this path to new heights."
-  },
-  "2": {
-    "key": "deer",
-    "wg": "Lu⁴-p'ao⁴",
-    "cn": "鹿跑",
-    "action": "The Deer’s Bound",
-    "lore": "The Deer bounds through the silent forest. Your nimble gift provides the agility needed to navigate the unseen path."
+    "lore": "The Ethereal Voyager finds the hidden thermal. Your grace allows the Way to reach the highest peaks."
   },
   "3": {
     "key": "tiger",
     "wg": "Hu³-hsiao⁴",
     "cn": "虎嘯",
     "action": "The Tiger’s Roar",
-    "lore": "The mountain trembles. Your strength provides a roar of confidence for the future."
+    "lore": "The Amber Monarch roars, and the mountains answer. Your power protects the sacred silence of the Tao."
   },
   "4": {
     "key": "phoenix",
     "wg": "Fêng⁴-shêng¹",
     "cn": "鳳昇",
     "action": "The Phoenix’s Rise",
-    "lore": "Transcending the cycle. Your gift allows the spirit of the Tao to rise and transform."
+    "lore": "The Crimson Sovereign rises from the embers. Your spirit transforms the old into the eternal."
   },
   "5": {
     "key": "dragon",
     "wg": "Lung²-ch’i⁴",
     "cn": "龍氣",
     "action": "The Dragon’s Breath",
-    "lore": "You have touched the breath of the universe. The Tao flows through your great kindness."
+    "lore": "The Azure Ancestor stirs the great waters. You are the flow itself, beginning and ending in the Infinite."
   }
 }
