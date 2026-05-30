@@ -12,6 +12,8 @@
     "season": "Autumn",
     "time_of_day": "Dusk",
     "color": "White",
+    "palace": "Western Palace (西宮)",
+    "mansions": "7 Mansions (Kui, Lou, Wei, Mao, Bi, Zi, Shen)",
     "action": "The Tiger’s Precision",
     "short_lore": "The White Monarch of the West guards the autumn dusk. An ancient symbol of righteousness, military order, and protective discipline.",
     "long_lore": "In classical Chinese cosmology and the foundational texts of the I Ching, the White Tiger governs the West Palace of the night sky, representing the phase of Lesser Yin (少陰). Associated with the element of Metal, the season of autumn, and the hour of dusk, this guardian embodies the energy of harvesting, consolidation, and penal execution. In Taoist theology, it was personified under the name Jianbing. Historically, the White Tiger held supreme military significance, symbolizing the right wing of battle formations, absolute authority, and righteousness. It was widely invoked in ancient state rituals to quell internal rebellions, enforce societal order, and act as a fierce celestial shield capable of warding off malignant spirits and chaotic cosmic disruptions."
@@ -29,6 +31,8 @@
     "season": "Winter",
     "time_of_day": "Midnight",
     "color": "Black",
+    "palace": "Northern Palace (北宮)",
+    "mansions": "7 Mansions (Dou, Niu, Nu, Xu, Wei, Shi, Bi)",
     "action": "The Tortoise’s Depth",
     "short_lore": "The Obsidian Sentinel of the North endures the winter midnight. A primordial emblem of longevity, deep storage, and absolute stillness.",
     "long_lore": "The Black Tortoise, traditionally known as Xuanwu or the Black Warrior, rules over the North Palace of the celestial sphere. In the framework of the I Ching, it represents Great Yin (老陰), aligning with the element of Water, the freezing isolation of winter, and the absolute dark of midnight. Visually depicted as a serpent entwined around a turtle, this hybrid creature represents the primordial union of reproductive dualities and longevity. Taoist texts personify this guardian as Zhiming. Because water represents deep structural storage and stillness, Xuanwu was historically worshiped as an unshakeable guardian against floods, dark elemental omens, and the destructive properties of unchecked chaos, ensuring cosmic preservation during the cyclical death of the year."
@@ -46,6 +50,8 @@
     "season": "Spring",
     "time_of_day": "Dawn",
     "color": "Blue-green",
+    "palace": "Eastern Palace (東宮)",
+    "mansions": "7 Mansions (Jiao, Kang, Di, Fang, Xin, Wei, Ji)",
     "action": "The Dragon’s Awakening",
     "short_lore": "The Azure Ancestor of the East heralds the spring dawn. The catalyst of vital life forces, renewal, and flexible expansion.",
     "long_lore": "The Azure Dragon, or Qinglong, stands as the premier entity among the Four Symbols, commanding the East Palace of the constellations. Representing the phase of Lesser Yang (少陽), it correlates with the element of Wood, the renewal of spring, and the rising sun at dawn. In Taoist traditions, the dragon is personified as Mengzhang, a benevolent deity guiding vital life force, agriculture, and organic expansion. Historically, Chinese emperors adopted the standard of the Azure Dragon on military banners and palace structures to project supreme imperial sovereignty, mandate, and the unstoppable propagation of life. It serves as a mythological catalyst that thaws winter constraints, prompting hidden energies to emerge and rise toward their highest potential."
@@ -63,6 +69,8 @@
     "season": "Summer",
     "time_of_day": "Midday",
     "color": "Red",
+    "palace": "Southern Palace (南宮)",
+    "mansions": "7 Mansions (Jing, Gui, Liu, Xing, Zhang, Yi, Zhen)",
     "action": "The Bird’s Transcendence",
     "short_lore": "The Crimson Sovereign of the South commands the summer midday. A manifestation of solar heat, spiritual clarity, and cosmic prosperity.",
     "long_lore": "Representing the culmination of Great Yang (老陽), the Vermilion Bird, or Zhuque, rules the South Palace of the ancient Chinese astrological system. It directly dictates the element of Fire, the peak heat of summer, and the blinding illumination of midday. Often distinct from the common fengying (phoenix), the Vermilion Bird is an independent constellation of stars representing cultural refinement, auspicious omens, and celestial prosperity. In Taoism, it is personified under the title Lingguang. Mythological treatises describe this creature as a regulator of thermal balance and spiritual awareness. Because of its solar nature, ancient configurations utilized the symbol of the Vermilion Bird to burn away deceptive earthly illusions, establishing absolute clarity and moral correctness across the realm."
@@ -80,6 +88,8 @@
     "season": "Central (All Seasons)",
     "time_of_day": "All Times",
     "color": "Yellow",
+    "palace": "Middle Palace / Xuanyuan (中宮 / 軒轅)",
+    "mansions": "Central Axis (The Pivot of the 28 Mansions)",
     "action": "The Dragon’s Eternity",
     "short_lore": "The Imperial Guardian rests at the center of the cosmos. The stabilizing axis of Earth that balances and unifies the four cardinal directions.",
     "long_lore": "In ancient Chinese metaphysics and Wu Xing cosmology, the Yellow Dragon, or Huanglong, occupies the absolute spatial and spiritual Center of the universe. While the peripheral Four Symbols govern the rotating changes of directions and seasonal times, the Yellow Dragon embodies the element of Earth—the foundational ground that anchors and generates all other phases. Personified in ancient ritual texts as Goulong, the deity of the soil, it represents the return to Taiji, the undifferentiated state of absolute harmony and neutrality. Historically linked to the central authority of the Yellow Emperor (Huangdi), this guardian represents the stabilizing axis of reality. It does not fluctuate with the cycles of yin and yang; rather, it acts as the eternal pivot that keeps the four surrounding palaces in permanent equilibrium."
