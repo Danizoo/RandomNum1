@@ -14,7 +14,7 @@
     "color": "White",
     "action": "The Tiger’s Precision",
     "short_lore": "The White Monarch of the West guards the autumn dusk. Cut away the noise, hone your focus, and reveal your sharpest intent.",
-    "long_lore": "In the quiet stillness of dusk, where autumn harvests are gathered and the day surrenders to night, stands Pai-hu, the White Tiger of the West. Governing the uncompromising element of Metal, this guardian represents the sharp edge of discipline, discernment, and spiritual boundary. Mythological texts honor this domain under the guidance of Rushou and the true Taoist personification Jianbing, the metal deity who cuts away the unnecessary weeds of life to reveal raw truth. Within the cosmic flow, the White Tiger embodies Young Yin—the first introduction of receptive, internal focus into your practice. Your journey begins here, in the West, by refining your intentions. To unlock this tier is to embrace the courage of the warrior-sage: learning what to protect, what to let go, and how to sharpen your mind so that you can cut cleanly through the illusions and distractions of the material world."
+    "long_lore": "According to the classical records of the I Ching, the division of Yin and Yang generates the West Palace, manifest as the White Tiger. Positioned as the Lesser Yin (少陰), it represents the gathering energy of dusk and autumn. Historically used in ancient military treatises as the symbol of the right wing, the White Tiger represents defensive precision, penal execution, and fierce authority under the personification of Jianbing. It is the celestial force that stabilizes the material realm by eliminating internal chaos. To master this tier is to align with the cosmic laws of structure and boundary, developing the focus required to cut away spiritual decay and protect your vital energy from external deterioration."
   },
   "2": {
     "key": "tortoise",
@@ -22,7 +22,7 @@
     "wg": "Hsüan²-wu³",
     "cn": "玄武",
     "deity_name": "Zhiming",
-    "deity_wg": "Chih²-ming²',
+    "deity_wg": "Chih²-ming²",
     "deity_cn": "執明",
     "direction": "North",
     "element": "Water",
@@ -31,7 +31,7 @@
     "color": "Black",
     "action": "The Tortoise’s Depth",
     "short_lore": "The Obsidian Sentinel of the North endures the winter midnight. Plunge beneath the surface to find absolute stillness and deep wisdom.",
-    "long_lore": "At the stroke of cosmic midnight, immersed in the dark, icy depths of winter, resides Hsüan-wu, the Black Turtle-Snake of the North. Often hailed as the Black Warrior, this dual-natured entity coexists alongside Xuanming and the personified Taoist guardian Zhiming, the primordial lord of deep waters. The Black Tortoise reigns supreme over the element of Water and represents Old Yin—the absolute pinnacle of stillness, endurance, and quiet contemplation. While the rest of the world sleeps, the Sentinel of the North remains ever-vigilant, storing ancient wisdom within its impenetrable shell. Advancing to this second tier demands that you plunge beneath the surface of fleeting thoughts to find your inner ocean. It teaches you that true power does not always roar; it endures. By channeling the water element, you cultivate the ultimate patient resilience required to navigate life's darkest and most uncertain seasons with unshakeable stability."
+    "long_lore": "The classical astronomical texts define the North Palace as the realm of the Black Tortoise, or Xuanwu—the Great Yin (老陰) where the cosmos returns to its most dormant, concentrated state. Depicted traditionally as a serpent coiling around a turtle, it represents the primordial union of yin forces within the deep waters of winter midnight. Personified in the texts as Zhiming, this guardian was historically invoked for protection against dark omens and destructive forces. By descending into the North Palace, your spiritual practice reaches deep internal consolidation. It teaches that the absolute stillness of the water element is not a state of emptiness, but the ultimate storehouse from which all future strength is gathered."
   },
   "3": {
     "key": "azure_dragon",
@@ -48,7 +48,7 @@
     "color": "Blue-green",
     "action": "The Dragon’s Awakening",
     "short_lore": "The Azure Ancestor of the East heralds the spring dawn. Awaken your vital energy and surge forward with limitless potential.",
-    "long_lore": "As the sun crests the eastern horizon at dawn, breaking the winter freeze with the renewal of Spring, Ch'ing-lung, the Azure Dragon of the East, stirs into life. Bound tightly to the element of Wood and watched over by the wood deity Goumang and the personified Taoist protector Mengzhang, this legendary beast represents Young Yang—the sudden, vital surge of outward growth, expansion, and flexible strength. In Chinese cosmology, the Azure Dragon is the catalyst of all new beginnings, the green shoot pushing forcefully through the thawed earth to claim the sky. Reaching this intermediate tier marks a massive awakening in your personal path. The heavy introspection of winter gives way to dynamic, creative action. By embodying the Azure Dragon, your spirit aligns with the natural flow of life's vitality, allowing you to adapt gracefully to obstacles while continuing your relentless climb toward higher understanding and limitless potential."
+    "long_lore": "In classical cosmology, the East Palace is the birthplace of the Azure Dragon, representing the stage of Lesser Yang (少陽) where life forces break through the dark. As the leader of the Four Symbols, it governs the dawn, the spring season, and the adaptive properties of the Wood element under the personified form of Mengzhang. Ancient records show that emperors aligned their banners with the Azure Dragon to symbolize sovereignty and the unstoppable advance of righteous life. Unlocking this intermediate tier marks a shift from passive containment to outward manifestation. It grants the practitioner the expansive, flexible strength of the dragon, ensuring you can adapt effortlessly to life's shifting terrains while rising toward higher illumination."
   },
   "4": {
     "key": "phoenix",
@@ -65,7 +65,7 @@
     "color": "Red",
     "action": "The Bird’s Transcendence",
     "short_lore": "The Crimson Sovereign of the South commands the summer midday. Ignite your passion, burn away limits, and rise transformed.",
-    "long_lore": "At the blazing peak of midday, beneath the blinding light of the summer solstice, the sky belongs to Chu-ch'iao, the Vermilion Bird of the South. Accompanied by the ancient flame deity Zhurong and the personified Taoist sovereign Lingguang, this radiant phoenix commands the element of Fire and manifests as Old Yang—the absolute apex of pure energetic expression, passion, and illumination. The Vermilion Bird does not merely fly; it transforms everything in its wake, incinerating old habits, doubts, and past attachments to forge something entirely eternal. Stepping into this fourth tier means stepping into your own brilliance. It is a place of extreme clarity, where your spiritual fire burns away self-limiting delusions. The Vermilion Bird demands that you live fully in your truth, radiating your inner light with total confidence and transforming your lived experiences into the pure, blinding energy of cosmic progress."
+    "long_lore": "Representing the Great Yang (老陽), the South Palace is governed by the Vermilion Bird, the celestial spirit of pure fire, midday, and summer. Mythological documentation identifies its personification as Lingguang, the sovereign who dictates thermal equilibrium, spiritual awareness, and the complete maturation of things. Unlike the common phoenix, the Vermilion Bird is an ancient star constellation associated with cosmic order and prosperity. Entering this fourth tier represents the peak of conscious ascension. Here, the internal heat generated by your practice burns away illusions, allowing you to operate with absolute clarity, unyielding confidence, and the transcendent vision necessary to oversee your entire spiritual landscape."
   },
   "5": {
     "key": "yellow_dragon",
@@ -82,6 +82,6 @@
     "color": "Yellow",
     "action": "The Dragon’s Eternity",
     "short_lore": "The Imperial Guardian rests at the center of the cosmos. Return to the Source, find perfect equilibrium, and anchor the Infinite.",
-    "long_lore": "At the literal and spiritual apex of the cosmos lies Huanglong, the Yellow Dragon of the Center. Sheltered by Houtu and personified as the foundational deity Goulong, this imperial guardian rules over the foundational element of Earth. While the other four beasts patrol the changing directions, seasons, and times of day, the Yellow Dragon is the unmoving axis, the supreme pivot upon which the entire matrix of reality safely rotates. It represents absolute neutrality, cosmic harmony, and the perfect integration of all elements. To unlock this final, most prestigious tier is to step completely outside the spinning cycle of action and reaction. You have integrated the precision of Metal, the depths of Water, the growth of Wood, and the passion of Fire. By arriving home at the Center, your journey becomes absolute; you are no longer tossed about by the changing winds of the world, but have instead become the eternal, unshakeable anchor of the Infinite."
+    "long_lore": "Standing at the absolute nexus of the cosmological system is the Yellow Dragon, or Huanglong. In ancient texts, while the Four Palaces govern the peripheral changes of time and direction, the Center acts as the fundamental axis of Earth that supports them all. Personified as Goulong, it represents the supreme pivot and the return to Taiji—the undifferentiated source of all creation. To achieve this highest, premium tier is to transcend the dualities of yin and yang, spring and autumn, light and dark. You have successfully integrated the outer four palaces into a single, unified center. You are no longer pushed or pulled by cosmic cycles, but have become the unmoving, unshakeable anchor around which the entire universe rotates."
   }
 }
