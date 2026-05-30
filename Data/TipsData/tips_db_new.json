@@ -13,8 +13,8 @@
     "time_of_day": "Dusk",
     "color": "White",
     "action": "The Tiger’s Precision",
-    "short_lore": "The White Monarch of the West guards the autumn dusk. Cut away the noise, hone your focus, and reveal your sharpest intent.",
-    "long_lore": "According to the classical records of the I Ching, the division of Yin and Yang generates the West Palace, manifest as the White Tiger. Positioned as the Lesser Yin (少陰), it represents the gathering energy of dusk and autumn. Historically used in ancient military treatises as the symbol of the right wing, the White Tiger represents defensive precision, penal execution, and fierce authority under the personification of Jianbing. It is the celestial force that stabilizes the material realm by eliminating internal chaos. To master this tier is to align with the cosmic laws of structure and boundary, developing the focus required to cut away spiritual decay and protect your vital energy from external deterioration."
+    "short_lore": "The White Monarch of the West guards the autumn dusk. An ancient symbol of righteousness, military order, and protective discipline.",
+    "long_lore": "In classical Chinese cosmology and the foundational texts of the I Ching, the White Tiger governs the West Palace of the night sky, representing the phase of Lesser Yin (少陰). Associated with the element of Metal, the season of autumn, and the hour of dusk, this guardian embodies the energy of harvesting, consolidation, and penal execution. In Taoist theology, it was personified under the name Jianbing. Historically, the White Tiger held supreme military significance, symbolizing the right wing of battle formations, absolute authority, and righteousness. It was widely invoked in ancient state rituals to quell internal rebellions, enforce societal order, and act as a fierce celestial shield capable of warding off malignant spirits and chaotic cosmic disruptions."
   },
   "2": {
     "key": "tortoise",
@@ -30,8 +30,8 @@
     "time_of_day": "Midnight",
     "color": "Black",
     "action": "The Tortoise’s Depth",
-    "short_lore": "The Obsidian Sentinel of the North endures the winter midnight. Plunge beneath the surface to find absolute stillness and deep wisdom.",
-    "long_lore": "The classical astronomical texts define the North Palace as the realm of the Black Tortoise, or Xuanwu—the Great Yin (老陰) where the cosmos returns to its most dormant, concentrated state. Depicted traditionally as a serpent coiling around a turtle, it represents the primordial union of yin forces within the deep waters of winter midnight. Personified in the texts as Zhiming, this guardian was historically invoked for protection against dark omens and destructive forces. By descending into the North Palace, your spiritual practice reaches deep internal consolidation. It teaches that the absolute stillness of the water element is not a state of emptiness, but the ultimate storehouse from which all future strength is gathered."
+    "short_lore": "The Obsidian Sentinel of the North endures the winter midnight. A primordial emblem of longevity, deep storage, and absolute stillness.",
+    "long_lore": "The Black Tortoise, traditionally known as Xuanwu or the Black Warrior, rules over the North Palace of the celestial sphere. In the framework of the I Ching, it represents Great Yin (老陰), aligning with the element of Water, the freezing isolation of winter, and the absolute dark of midnight. Visually depicted as a serpent entwined around a turtle, this hybrid creature represents the primordial union of reproductive dualities and longevity. Taoist texts personify this guardian as Zhiming. Because water represents deep structural storage and stillness, Xuanwu was historically worshiped as an unshakeable guardian against floods, dark elemental omens, and the destructive properties of unchecked chaos, ensuring cosmic preservation during the cyclical death of the year."
   },
   "3": {
     "key": "azure_dragon",
@@ -47,8 +47,8 @@
     "time_of_day": "Dawn",
     "color": "Blue-green",
     "action": "The Dragon’s Awakening",
-    "short_lore": "The Azure Ancestor of the East heralds the spring dawn. Awaken your vital energy and surge forward with limitless potential.",
-    "long_lore": "In classical cosmology, the East Palace is the birthplace of the Azure Dragon, representing the stage of Lesser Yang (少陽) where life forces break through the dark. As the leader of the Four Symbols, it governs the dawn, the spring season, and the adaptive properties of the Wood element under the personified form of Mengzhang. Ancient records show that emperors aligned their banners with the Azure Dragon to symbolize sovereignty and the unstoppable advance of righteous life. Unlocking this intermediate tier marks a shift from passive containment to outward manifestation. It grants the practitioner the expansive, flexible strength of the dragon, ensuring you can adapt effortlessly to life's shifting terrains while rising toward higher illumination."
+    "short_lore": "The Azure Ancestor of the East heralds the spring dawn. The catalyst of vital life forces, renewal, and flexible expansion.",
+    "long_lore": "The Azure Dragon, or Qinglong, stands as the premier entity among the Four Symbols, commanding the East Palace of the constellations. Representing the phase of Lesser Yang (少陽), it correlates with the element of Wood, the renewal of spring, and the rising sun at dawn. In Taoist traditions, the dragon is personified as Mengzhang, a benevolent deity guiding vital life force, agriculture, and organic expansion. Historically, Chinese emperors adopted the standard of the Azure Dragon on military banners and palace structures to project supreme imperial sovereignty, mandate, and the unstoppable propagation of life. It serves as a mythological catalyst that thaws winter constraints, prompting hidden energies to emerge and rise toward their highest potential."
   },
   "4": {
     "key": "phoenix",
@@ -64,8 +64,8 @@
     "time_of_day": "Midday",
     "color": "Red",
     "action": "The Bird’s Transcendence",
-    "short_lore": "The Crimson Sovereign of the South commands the summer midday. Ignite your passion, burn away limits, and rise transformed.",
-    "long_lore": "Representing the Great Yang (老陽), the South Palace is governed by the Vermilion Bird, the celestial spirit of pure fire, midday, and summer. Mythological documentation identifies its personification as Lingguang, the sovereign who dictates thermal equilibrium, spiritual awareness, and the complete maturation of things. Unlike the common phoenix, the Vermilion Bird is an ancient star constellation associated with cosmic order and prosperity. Entering this fourth tier represents the peak of conscious ascension. Here, the internal heat generated by your practice burns away illusions, allowing you to operate with absolute clarity, unyielding confidence, and the transcendent vision necessary to oversee your entire spiritual landscape."
+    "short_lore": "The Crimson Sovereign of the South commands the summer midday. A manifestation of solar heat, spiritual clarity, and cosmic prosperity.",
+    "long_lore": "Representing the culmination of Great Yang (老陽), the Vermilion Bird, or Zhuque, rules the South Palace of the ancient Chinese astrological system. It directly dictates the element of Fire, the peak heat of summer, and the blinding illumination of midday. Often distinct from the common fengying (phoenix), the Vermilion Bird is an independent constellation of stars representing cultural refinement, auspicious omens, and celestial prosperity. In Taoism, it is personified under the title Lingguang. Mythological treatises describe this creature as a regulator of thermal balance and spiritual awareness. Because of its solar nature, ancient configurations utilized the symbol of the Vermilion Bird to burn away deceptive earthly illusions, establishing absolute clarity and moral correctness across the realm."
   },
   "5": {
     "key": "yellow_dragon",
@@ -81,7 +81,7 @@
     "time_of_day": "All Times",
     "color": "Yellow",
     "action": "The Dragon’s Eternity",
-    "short_lore": "The Imperial Guardian rests at the center of the cosmos. Return to the Source, find perfect equilibrium, and anchor the Infinite.",
-    "long_lore": "Standing at the absolute nexus of the cosmological system is the Yellow Dragon, or Huanglong. In ancient texts, while the Four Palaces govern the peripheral changes of time and direction, the Center acts as the fundamental axis of Earth that supports them all. Personified as Goulong, it represents the supreme pivot and the return to Taiji—the undifferentiated source of all creation. To achieve this highest, premium tier is to transcend the dualities of yin and yang, spring and autumn, light and dark. You have successfully integrated the outer four palaces into a single, unified center. You are no longer pushed or pulled by cosmic cycles, but have become the unmoving, unshakeable anchor around which the entire universe rotates."
+    "short_lore": "The Imperial Guardian rests at the center of the cosmos. The stabilizing axis of Earth that balances and unifies the four cardinal directions.",
+    "long_lore": "In ancient Chinese metaphysics and Wu Xing cosmology, the Yellow Dragon, or Huanglong, occupies the absolute spatial and spiritual Center of the universe. While the peripheral Four Symbols govern the rotating changes of directions and seasonal times, the Yellow Dragon embodies the element of Earth—the foundational ground that anchors and generates all other phases. Personified in ancient ritual texts as Goulong, the deity of the soil, it represents the return to Taiji, the undifferentiated state of absolute harmony and neutrality. Historically linked to the central authority of the Yellow Emperor (Huangdi), this guardian represents the stabilizing axis of reality. It does not fluctuate with the cycles of yin and yang; rather, it acts as the eternal pivot that keeps the four surrounding palaces in permanent equilibrium."
   }
 }
