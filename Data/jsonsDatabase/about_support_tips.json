@@ -125,8 +125,11 @@
       "restoreText": "Already Tipped? Restore Guardians",
       "restoringText": "Veryifing with App store...",
       "restoreEmpty": "We couldn't find any previous guardian unlocks on this App Store account.",
+      "restoreEmpty_title": "No Purchases Found",
       "restoreSuccess": "Your premium guardians have been successfully restored!",
+      "restoreSuccess_title": "Success",
       "restoreFailed": "An error occurred while connecting to the App Store. Please check your network connection and try again.",
+      "restoreFailed_title": "Restoration Failed",
     },
     "android": {
       "title":"Hello ♥",
