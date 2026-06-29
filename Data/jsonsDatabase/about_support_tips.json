@@ -129,7 +129,7 @@
       "restoreSuccess": "Your premium guardians have been successfully restored!",
       "restoreSuccess_title": "Success",
       "restoreFailed": "An error occurred while connecting to the App Store. Please check your network connection and try again.",
-      "restoreFailed_title": "Restoration Failed",
+      "restoreFailed_title": "Restoration Failed"
     },
     "android": {
       "title":"Hello ♥",
