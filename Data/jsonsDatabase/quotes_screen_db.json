@@ -3064,8 +3064,8 @@
     }
   ],
   "developersNote": {
-    "developersNoteBool": 0,
-    "developersNoteText": "Hello, dear Taoists ♥\n\nI'm working on some new app features.\nit would be great to get a feedback from you!\n\nI need around 10-15 people that I can send a video to, to show the new updates and get their opinions / feedbacks. (I may also release a test version later that you could try and experience).\n\nIf you're interested, please email me at:\ndanielgu.contact@gmail.com\n\nThanks!\nHave a beautiful day,\nDaniel G.",
+    "developersNoteBool": 1,
+    "developersNoteText": "Hello, dear Taoists ♥\n\n​The app recently underwent a small update. If you open the app and find the quotes or Tao Te Ching screens empty, please simply close and restart the app. If the issue persists, feel free to contact me at danielgu.contact@gmail.com, it’s an easy fix!\n\n​Have a wonderful day!\nDaniel G"
     "developersLink1": "",
     "develoeprsLink2": ""
   },
